@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<head>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.25.0/babel.min.js" integrity="sha256-KztsNop9TrlPYQWLLoS/eCnCfUTrO7Mum+mOCHGR5zA=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+  <script src="https://unpkg.com/lunr/lunr.js"></script>
+  <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.3.4/vue.min.js" integrity="sha256-+J5cSgDOPu6OT8mt+r5f7/cmvICoEmNdK2ZGz8ql8wc=" crossorigin="anonymous"></script> -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.3.4/vue.js" integrity="sha256-sawP1sLkcaA4YQJQWAtjahamgG6brGmaIJWRhYwDfno=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-polyfill/6.23.0/polyfill.min.js"></script>
+
+  <script src="navigo.min.js"></script>
+  <script type="text/babel" data-presets="es2015" src="quotedb.js"></script>
+
+  <link rel="stylesheet" href="style.css"></link>
+</head>
+<body>
+
+  <div class="header">
+	<div class="search-form-div">
+	  <input type="text" id="search_query_box" />
+	  <input type="button" id="search_query_submit_button" onclick="search_button_onclick();" value="Search" />
+	</div>
+
+	<div class="pagination-div">
+	  <input type="button" id="newer_page_button" onclick="newer_page_button_onclick();" value="<- Newer Quotes" />
+	  <input type="button" id="older_page_button" onclick="older_page_button_onclick();" value="Older Quotes ->" />
+	</div>
+  </div>
+
+  <div id="search_results" class="search-results" v-cloak>
+	<div class="quote" v-for="search_result in search_results">
+	  <span class="quote-permalink"><a v-bind:href="search_result.href">#{{search_result.id}}</a></span>
+	  <span class="quote-text">In</span>
+	  <span class="quote-channel">#{{search_result.channel}}</span>
+	  <span class="quote-text">on {{search_result.server}}</span>
+	  <span class="quote-timestamp">(uploaded {{search_result.quoted}})</span>
+	  <div v-for="line in search_result.lines" class="message">
+		<span class="message-timestamp">[{{line.timestamp}}]</span>
+		<span class="message-author" v-bind:style="line.style"><strong>{{line.author}}</strong></span>
+		<span class="message-content">{{line.content}}</span>
+		<div v-if="line.attachments.length > 0" v-for="attachment in line.attachments" class="message-attachments-div">
+		  <span class="message-attachment">(attachment: <a v-bind:href="attachment.url">{{attachment.filename}}</a>)</span>
+		</div>
+	  </div>
+	  <div v-if="search_result.truncated" class="quote-truncated-message">
+		<span class="quote-truncated-text">Long quote, {{search_result.truncated}} lines truncated.</span>
+		<span class="quote-truncated-link"><a v-bind:href="search_result.href">Click to go to full quote.</a></span>
+	  </div>
+	</div>
+  </div>
+
+</body>

@@ -284,5 +284,31 @@
     "quoted": "2017-09-04T20:52:18.125417",
     "server": "To Boldly Go",
     "channel": "general"
+  },
+  {
+    "id": "354372032907051010",
+    "lines": [
+      {
+        "author": "Leila",
+        "author_id": "150998587281637376",
+        "timestamp": "2017-09-04T21:05:01.918000+00:00",
+        "edited": null,
+        "content": "Ahem.",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "Leila",
+        "author_id": "150998587281637376",
+        "timestamp": "2017-09-04T21:05:12.135000+00:00",
+        "edited": null,
+        "content": "\"Nash dies next post. Its canon.\"",
+        "authorcolor": null,
+        "attachments": []
+      }
+    ],
+    "quoted": "2017-09-04T21:07:57.006401",
+    "server": "To Boldly Go",
+    "channel": "general"
   }
 ]

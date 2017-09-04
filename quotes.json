@@ -167,5 +167,22 @@
     "quoted": "2017-09-04T21:07:57.006401",
     "server": "To Boldly Go",
     "channel": "general"
+  },
+  {
+    "id": "354395307699863573",
+    "lines": [
+      {
+        "author": "Forgothrax",
+        "author_id": "340866029901053954",
+        "timestamp": "2017-09-04T22:37:11.819000+00:00",
+        "edited": null,
+        "content": "@vebyast-quote-bot-tbg /add -s 'Aphelion' -e 'Council P3'",
+        "authorcolor": null,
+        "attachments": []
+      }
+    ],
+    "quoted": "2017-09-04T22:40:26.575782",
+    "server": "To Boldly Go",
+    "channel": "general"
   }
 ]

@@ -211,5 +211,94 @@
     "quoted": "2017-09-04T22:44:17.860329",
     "server": "To Boldly Go",
     "channel": "shipdesignbureau"
+  },
+  {
+    "id": "354430211737255938",
+    "lines": [
+      {
+        "author": "aeqnai",
+        "author_id": "165084630054207488",
+        "timestamp": "2017-09-04T19:32:19.509000+00:00",
+        "edited": null,
+        "content": "also I haven't been clear on this at all so I should mention it",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "aeqnai",
+        "author_id": "165084630054207488",
+        "timestamp": "2017-09-04T19:32:40.265000+00:00",
+        "edited": null,
+        "content": "was it _just_ Stargazer that went extragalactic, or was the whole Kadeshi fleet picked up?",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "Leila",
+        "author_id": "150998587281637376",
+        "timestamp": "2017-09-04T19:33:12.555000+00:00",
+        "edited": null,
+        "content": "you don't know",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "aeqnai",
+        "author_id": "165084630054207488",
+        "timestamp": "2017-09-04T19:33:26.121000+00:00",
+        "edited": null,
+        "content": "no word from the _Pride_ independently, then?",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "swb",
+        "author_id": "139161925538807808",
+        "timestamp": "2017-09-04T19:33:38.136000+00:00",
+        "edited": null,
+        "content": "the other Starfleet ships in the fleet should be capable of independent transmission through the same relays",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "swb",
+        "author_id": "139161925538807808",
+        "timestamp": "2017-09-04T19:33:48.395000+00:00",
+        "edited": null,
+        "content": "so unless something happened to them",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "Leila",
+        "author_id": "150998587281637376",
+        "timestamp": "2017-09-04T19:33:53.528000+00:00",
+        "edited": null,
+        "content": "the starfleet ships all redlined at the same time",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "aeqnai",
+        "author_id": "165084630054207488",
+        "timestamp": "2017-09-04T19:33:57.095000+00:00",
+        "edited": null,
+        "content": "oh",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "aeqnai",
+        "author_id": "165084630054207488",
+        "timestamp": "2017-09-04T19:33:59.098000+00:00",
+        "edited": null,
+        "content": "oh dear",
+        "authorcolor": null,
+        "attachments": []
+      }
+    ],
+    "quoted": "2017-09-05T00:59:08.187853",
+    "server": "To Boldly Go",
+    "channel": "general"
   }
 ]

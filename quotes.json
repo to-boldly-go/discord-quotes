@@ -300,5 +300,76 @@
     "quoted": "2017-09-05T00:59:08.187853",
     "server": "To Boldly Go",
     "channel": "general"
+  },
+  {
+    "id": "354703593397288966",
+    "lines": [
+      {
+        "author": "swb",
+        "author_id": "139161925538807808",
+        "timestamp": "2017-09-05T18:57:23.549000+00:00",
+        "edited": null,
+        "content": "who else did this go through other than Linderley? SDB? MWCO?",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "aeqnai",
+        "author_id": "165084630054207488",
+        "timestamp": "2017-09-05T18:57:45.068000+00:00",
+        "edited": "2017-09-05T18:57:54.760000+00:00",
+        "content": "I suspect the answer is \"The Caitian Councillors\"",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "swb",
+        "author_id": "139161925538807808",
+        "timestamp": "2017-09-05T18:57:57.585000+00:00",
+        "edited": null,
+        "content": "not for a technical and logistical transfer",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "aeqnai",
+        "author_id": "165084630054207488",
+        "timestamp": "2017-09-05T18:58:14.031000+00:00",
+        "edited": null,
+        "content": "they seem to be just about that irresponsible and corrupt >_>",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "Leila",
+        "author_id": "150998587281637376",
+        "timestamp": "2017-09-05T18:58:42.840000+00:00",
+        "edited": null,
+        "content": "the problems happened after the parts transferred from SDB to Caitian hands",
+        "authorcolor": "#11806A",
+        "attachments": []
+      },
+      {
+        "author": "Forgothrax",
+        "author_id": "340866029901053954",
+        "timestamp": "2017-09-05T18:59:11.097000+00:00",
+        "edited": null,
+        "content": "So",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "Leila",
+        "author_id": "150998587281637376",
+        "timestamp": "2017-09-05T18:59:11.200000+00:00",
+        "edited": null,
+        "content": "it wasn't a MWCO issue. Member worlds have had access to starfleet tech since before that office existed.",
+        "authorcolor": "#11806A",
+        "attachments": []
+      }
+    ],
+    "quoted": "2017-09-05T19:05:41.298608",
+    "server": "To Boldly Go",
+    "channel": "general"
   }
 ]

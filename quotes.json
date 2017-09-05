@@ -514,5 +514,67 @@
     "quoted": "2017-09-05T20:32:39.603755",
     "server": "To Boldly Go",
     "channel": "general"
+  },
+  {
+    "id": "354742735833661441",
+    "lines": [
+      {
+        "author": "Leila",
+        "author_id": "150998587281637376",
+        "timestamp": "2017-09-05T21:15:26.640000+00:00",
+        "edited": null,
+        "content": "also",
+        "authorcolor": "#11806A",
+        "attachments": []
+      },
+      {
+        "author": "Leila",
+        "author_id": "150998587281637376",
+        "timestamp": "2017-09-05T21:15:32.014000+00:00",
+        "edited": null,
+        "content": "no harm in telling you now",
+        "authorcolor": "#11806A",
+        "attachments": []
+      },
+      {
+        "author": "Leila",
+        "author_id": "150998587281637376",
+        "timestamp": "2017-09-05T21:15:53.357000+00:00",
+        "edited": null,
+        "content": "your odds of outsciencing that bioweapon were about 50/50",
+        "authorcolor": "#11806A",
+        "attachments": []
+      },
+      {
+        "author": "Leila",
+        "author_id": "150998587281637376",
+        "timestamp": "2017-09-05T21:16:06.595000+00:00",
+        "edited": null,
+        "content": "and if you'd failed, it would have delayed nash a few more weeks",
+        "authorcolor": "#11806A",
+        "attachments": []
+      },
+      {
+        "author": "Leila",
+        "author_id": "150998587281637376",
+        "timestamp": "2017-09-05T21:16:18.937000+00:00",
+        "edited": null,
+        "content": "and the cardassians would have had time to finish setting up a minefield at 24 enio",
+        "authorcolor": "#11806A",
+        "attachments": []
+      },
+      {
+        "author": "Leila",
+        "author_id": "150998587281637376",
+        "timestamp": "2017-09-05T21:16:41.154000+00:00",
+        "edited": null,
+        "content": "you can thank Rivers for them not already having one, when she set back their development of that system",
+        "authorcolor": "#11806A",
+        "attachments": []
+      }
+    ],
+    "quoted": "2017-09-05T21:40:59.666821",
+    "server": "To Boldly Go",
+    "channel": "general"
   }
 ]

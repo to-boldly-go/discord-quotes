@@ -576,5 +576,229 @@
     "quoted": "2017-09-05T21:40:59.666821",
     "server": "To Boldly Go",
     "channel": "general"
+  },
+  {
+    "id": "354743040671350784",
+    "lines": [
+      {
+        "author": "Leila",
+        "author_id": "150998587281637376",
+        "timestamp": "2017-09-05T21:26:23.762000+00:00",
+        "edited": null,
+        "content": "the outpost at 26 enio just gave you rp, and half of that was for beating the prion",
+        "authorcolor": "#11806A",
+        "attachments": []
+      },
+      {
+        "author": "Briefvoice",
+        "author_id": "344262886564298753",
+        "timestamp": "2017-09-05T21:27:08.526000+00:00",
+        "edited": null,
+        "content": "Oh, well maybe we shouldn't have taken it then.  Though I guess it's at least a strategic position we've seized.",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "Briefvoice",
+        "author_id": "344262886564298753",
+        "timestamp": "2017-09-05T21:27:31.828000+00:00",
+        "edited": null,
+        "content": "Assuming we don't abandon it...",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "swb",
+        "author_id": "139161925538807808",
+        "timestamp": "2017-09-05T21:27:45.498000+00:00",
+        "edited": null,
+        "content": "a lot riding on the next battle",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "swb",
+        "author_id": "139161925538807808",
+        "timestamp": "2017-09-05T21:27:52.582000+00:00",
+        "edited": null,
+        "content": "about the future look of the sector",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "Leila",
+        "author_id": "150998587281637376",
+        "timestamp": "2017-09-05T21:27:54.592000+00:00",
+        "edited": null,
+        "content": "indeed",
+        "authorcolor": "#11806A",
+        "attachments": []
+      },
+      {
+        "author": "Briefvoice",
+        "author_id": "344262886564298753",
+        "timestamp": "2017-09-05T21:28:02.685000+00:00",
+        "edited": null,
+        "content": "Tempted to do an \"early DS9\" style omake for 26 Enio, where the crew has to deal with living in whacky Cardassian construction.",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "Leila",
+        "author_id": "150998587281637376",
+        "timestamp": "2017-09-05T21:28:18.849000+00:00",
+        "edited": null,
+        "content": "wait until you know your keeping it",
+        "authorcolor": "#11806A",
+        "attachments": []
+      },
+      {
+        "author": "Raron",
+        "author_id": "234330274094252032",
+        "timestamp": "2017-09-05T21:28:25.154000+00:00",
+        "edited": null,
+        "content": "Enio is already ours right?",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "Leila",
+        "author_id": "150998587281637376",
+        "timestamp": "2017-09-05T21:28:44.244000+00:00",
+        "edited": null,
+        "content": "you've just taken both of the cardassian-occupied enio systems",
+        "authorcolor": "#11806A",
+        "attachments": []
+      },
+      {
+        "author": "Raron",
+        "author_id": "234330274094252032",
+        "timestamp": "2017-09-05T21:28:53.357000+00:00",
+        "edited": null,
+        "content": "Only 2?",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "Leila",
+        "author_id": "150998587281637376",
+        "timestamp": "2017-09-05T21:28:53.961000+00:00",
+        "edited": null,
+        "content": "whether you can keep them remains to be seen",
+        "authorcolor": "#11806A",
+        "attachments": []
+      },
+      {
+        "author": "Raron",
+        "author_id": "234330274094252032",
+        "timestamp": "2017-09-05T21:29:22.699000+00:00",
+        "edited": null,
+        "content": "This is the least inhabited sector in gabriel so far",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "Leila",
+        "author_id": "150998587281637376",
+        "timestamp": "2017-09-05T21:29:32.681000+00:00",
+        "edited": null,
+        "content": "yup",
+        "authorcolor": "#11806A",
+        "attachments": []
+      },
+      {
+        "author": "Raron",
+        "author_id": "234330274094252032",
+        "timestamp": "2017-09-05T21:29:35.035000+00:00",
+        "edited": null,
+        "content": "Or is it not 100% explored",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "Leila",
+        "author_id": "150998587281637376",
+        "timestamp": "2017-09-05T21:29:41.630000+00:00",
+        "edited": null,
+        "content": "enio is sort of on the outskirts",
+        "authorcolor": "#11806A",
+        "attachments": []
+      },
+      {
+        "author": "Leila",
+        "author_id": "150998587281637376",
+        "timestamp": "2017-09-05T21:29:45.714000+00:00",
+        "edited": null,
+        "content": "of what they've claimed",
+        "authorcolor": "#11806A",
+        "attachments": []
+      },
+      {
+        "author": "Leila",
+        "author_id": "150998587281637376",
+        "timestamp": "2017-09-05T21:29:50.407000+00:00",
+        "edited": null,
+        "content": "and rivers set them back",
+        "authorcolor": "#11806A",
+        "attachments": []
+      },
+      {
+        "author": "Raron",
+        "author_id": "234330274094252032",
+        "timestamp": "2017-09-05T21:30:39.571000+00:00",
+        "edited": null,
+        "content": "Dorsata ahs 6 mines, I was expecting Enio to have at least 3",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "Leila",
+        "author_id": "150998587281637376",
+        "timestamp": "2017-09-05T21:30:50.381000+00:00",
+        "edited": null,
+        "content": "it may have others",
+        "authorcolor": "#11806A",
+        "attachments": []
+      },
+      {
+        "author": "Raron",
+        "author_id": "234330274094252032",
+        "timestamp": "2017-09-05T21:31:00.518000+00:00",
+        "edited": null,
+        "content": "Ah, so it's not 100% explored",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "Leila",
+        "author_id": "150998587281637376",
+        "timestamp": "2017-09-05T21:31:03.150000+00:00",
+        "edited": null,
+        "content": "but as far as you know, the cardassians haven't developed them yet",
+        "authorcolor": "#11806A",
+        "attachments": []
+      },
+      {
+        "author": "anon_user",
+        "author_id": "205672342100246528",
+        "timestamp": "2017-09-05T21:32:45.057000+00:00",
+        "edited": null,
+        "content": "I think right now we've only colonized one mine in Firefly?",
+        "authorcolor": "#546E7A",
+        "attachments": []
+      },
+      {
+        "author": "Raron",
+        "author_id": "234330274094252032",
+        "timestamp": "2017-09-05T21:33:46.908000+00:00",
+        "edited": null,
+        "content": "Yea, same with Dorsata",
+        "authorcolor": null,
+        "attachments": []
+      }
+    ],
+    "quoted": "2017-09-05T21:42:12.179341",
+    "server": "To Boldly Go",
+    "channel": "general"
   }
 ]

@@ -852,5 +852,49 @@
     "quoted": "2017-09-06T18:44:16.994395",
     "server": "To Boldly Go",
     "channel": "general"
+  },
+  {
+    "id": "355096211960889345",
+    "lines": [
+      {
+        "author": "anon_user",
+        "author_id": "205672342100246528",
+        "timestamp": "2017-09-06T21:03:04.493000+00:00",
+        "edited": null,
+        "content": "wait a minute: we don't need to invent UES Insight, because that was actually USS Reason, which is otherwise missing.",
+        "authorcolor": "#546E7A",
+        "attachments": []
+      },
+      {
+        "author": "aeqnai",
+        "author_id": "165084630054207488",
+        "timestamp": "2017-09-06T21:03:15.294000+00:00",
+        "edited": null,
+        "content": "well then",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "Leila",
+        "author_id": "150998587281637376",
+        "timestamp": "2017-09-06T21:03:21.091000+00:00",
+        "edited": null,
+        "content": "oh",
+        "authorcolor": "#11806A",
+        "attachments": []
+      },
+      {
+        "author": "Leila",
+        "author_id": "150998587281637376",
+        "timestamp": "2017-09-06T21:03:40.001000+00:00",
+        "edited": null,
+        "content": "maybe I took Reason off the list instead of Insight",
+        "authorcolor": "#11806A",
+        "attachments": []
+      }
+    ],
+    "quoted": "2017-09-06T21:05:34.891452",
+    "server": "To Boldly Go",
+    "channel": "general"
   }
 ]

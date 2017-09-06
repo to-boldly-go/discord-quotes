@@ -896,5 +896,22 @@
     "quoted": "2017-09-06T21:05:34.891452",
     "server": "To Boldly Go",
     "channel": "general"
+  },
+  {
+    "id": "355129105269784589",
+    "lines": [
+      {
+        "author": "Iron Wolf",
+        "author_id": "205517498995572737",
+        "timestamp": "2017-09-06T23:15:19.181000+00:00",
+        "edited": null,
+        "content": "I skipped GM orientation for a beer garden, you can QUOTE that as WOG",
+        "authorcolor": "#FF9CFB",
+        "attachments": []
+      }
+    ],
+    "quoted": "2017-09-06T23:16:17.535102",
+    "server": "To Boldly Go",
+    "channel": "general"
   }
 ]

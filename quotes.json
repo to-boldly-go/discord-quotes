@@ -800,5 +800,22 @@
     "quoted": "2017-09-05T21:42:12.179341",
     "server": "To Boldly Go",
     "channel": "general"
+  },
+  {
+    "id": "354843410474991616",
+    "lines": [
+      {
+        "author": "Iron Wolf",
+        "author_id": "205517498995572737",
+        "timestamp": "2017-09-06T04:17:39.765000+00:00",
+        "edited": null,
+        "content": "It's more \"If you keep Linderley now, The GMs Will Remember That\" and if the GBZ campaign goes certain directions, that will be considered when deciding other political ramifications.",
+        "authorcolor": "#FF9CFB",
+        "attachments": []
+      }
+    ],
+    "quoted": "2017-09-06T04:21:02.128177",
+    "server": "To Boldly Go",
+    "channel": "general"
   }
 ]

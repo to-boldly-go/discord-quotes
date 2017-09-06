@@ -817,5 +817,40 @@
     "quoted": "2017-09-06T04:21:02.128177",
     "server": "To Boldly Go",
     "channel": "general"
+  },
+  {
+    "id": "355060651288428556",
+    "lines": [
+      {
+        "author": "Leila",
+        "author_id": "150998587281637376",
+        "timestamp": "2017-09-06T18:40:22.620000+00:00",
+        "edited": null,
+        "content": "we reran this battle a few times afterward",
+        "authorcolor": "#11806A",
+        "attachments": []
+      },
+      {
+        "author": "Leila",
+        "author_id": "150998587281637376",
+        "timestamp": "2017-09-06T18:40:27.445000+00:00",
+        "edited": null,
+        "content": "always cardassian victory",
+        "authorcolor": "#11806A",
+        "attachments": []
+      },
+      {
+        "author": "Leila",
+        "author_id": "150998587281637376",
+        "timestamp": "2017-09-06T18:40:33.897000+00:00",
+        "edited": null,
+        "content": "Nash Magic, once again.",
+        "authorcolor": "#11806A",
+        "attachments": []
+      }
+    ],
+    "quoted": "2017-09-06T18:44:16.994395",
+    "server": "To Boldly Go",
+    "channel": "general"
   }
 ]

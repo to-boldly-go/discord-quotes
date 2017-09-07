@@ -913,5 +913,76 @@
     "quoted": "2017-09-06T23:16:17.535102",
     "server": "To Boldly Go",
     "channel": "general"
+  },
+  {
+    "id": "355198521714016259",
+    "lines": [
+      {
+        "author": "vebyast",
+        "author_id": "248980478416125952",
+        "timestamp": "2017-08-21T14:09:10.305000+00:00",
+        "edited": "2017-08-21T14:12:00.897000+00:00",
+        "content": "Okay, stupid question time. What would happen if we ran our Explorers in the initial scouting phase of combat, the spot that the Aphelion proposal was targeting? I assume that we'd lose positioning for having to pull them back after that to reposition to re-enter the more main combat phases, but... Explorers are, as far as I can tell, fast and stealthy even in absolute terms, they have our best sensors, and malfean stealth is a thing. Would it balance?",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "Oneiros",
+        "author_id": "164407298008023040",
+        "timestamp": "2017-08-21T14:12:33.775000+00:00",
+        "edited": null,
+        "content": "I wouldn't really allow it - and if I did I'd start making checks for scout ships getting ambushed and the like to balance it",
+        "authorcolor": "#AD1457",
+        "attachments": []
+      },
+      {
+        "author": "vebyast",
+        "author_id": "248980478416125952",
+        "timestamp": "2017-08-21T14:14:09.717000+00:00",
+        "edited": null,
+        "content": "heh, fair enough.",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "vebyast",
+        "author_id": "248980478416125952",
+        "timestamp": "2017-08-21T14:15:16.344000+00:00",
+        "edited": null,
+        "content": "Now I guess the question is, do we think that we'd be better at ambushing than other civs, and could we try that once to force you to implement it and then stop doing it so we can take advantage of it...",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "vebyast",
+        "author_id": "248980478416125952",
+        "timestamp": "2017-08-21T14:15:22.277000+00:00",
+        "edited": null,
+        "content": "No, veb, stop trying to manipulate the QM",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "vebyast",
+        "author_id": "248980478416125952",
+        "timestamp": "2017-08-21T14:15:31.365000+00:00",
+        "edited": null,
+        "content": "That just makes them angry, and you don't like angry QMs.",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "Oneiros",
+        "author_id": "164407298008023040",
+        "timestamp": "2017-08-21T14:18:52.463000+00:00",
+        "edited": null,
+        "content": "haha",
+        "authorcolor": "#AD1457",
+        "attachments": []
+      }
+    ],
+    "quoted": "2017-09-07T03:52:07.327860",
+    "server": "To Boldly Go",
+    "channel": "general"
   }
 ]

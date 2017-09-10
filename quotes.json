@@ -1109,5 +1109,67 @@
     "quoted": "2017-09-10T16:34:11.749750",
     "server": "To Boldly Go",
     "channel": "sdb-informatics"
+  },
+  {
+    "id": "356481303308271618",
+    "lines": [
+      {
+        "author": "Briefvoice",
+        "author_id": "344262886564298753",
+        "timestamp": "2017-09-10T16:46:00.548000+00:00",
+        "edited": null,
+        "content": "Okay, I think I had basically the right text, but I'm not putting spaces int he right locations or something?",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "Briefvoice",
+        "author_id": "344262886564298753",
+        "timestamp": "2017-09-10T16:46:24.745000+00:00",
+        "edited": null,
+        "content": "like, does there have to be a space between --start_id and the ID number?",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "vebyast",
+        "author_id": "248980478416125952",
+        "timestamp": "2017-09-10T16:47:01.642000+00:00",
+        "edited": null,
+        "content": "Yes.",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "Briefvoice",
+        "author_id": "344262886564298753",
+        "timestamp": "2017-09-10T16:48:08.398000+00:00",
+        "edited": null,
+        "content": "@vebyast-quote-bot-tbg /add --start_id 356479753705750541 --end_id356480698619527170",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "vebyast-quote-bot-tbg",
+        "author_id": "348478356830027777",
+        "timestamp": "2017-09-10T16:48:08.486000+00:00",
+        "edited": "2017-09-10T16:48:08.545000+00:00",
+        "content": "```one of the arguments -E/--end_id -e/--end is required ```",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "vebyast",
+        "author_id": "248980478416125952",
+        "timestamp": "2017-09-10T16:48:15.044000+00:00",
+        "edited": null,
+        "content": "You also need to specify a channel unless you're quoting out of the current channel. You do t hi s with the --channel option, and you type in and autocomplete the channel name with the #",
+        "authorcolor": null,
+        "attachments": []
+      }
+    ],
+    "quoted": "2017-09-10T16:49:26.601375",
+    "server": "To Boldly Go",
+    "channel": "sdb-informatics"
   }
 ]

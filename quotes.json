@@ -984,5 +984,130 @@
     "quoted": "2017-09-07T03:52:07.327860",
     "server": "To Boldly Go",
     "channel": "general"
+  },
+  {
+    "id": "356477464643502080",
+    "lines": [
+      {
+        "author": "vebyast",
+        "author_id": "248980478416125952",
+        "timestamp": "2017-09-10T16:28:57.189000+00:00",
+        "edited": null,
+        "content": "@Briefvoice The bot is a standard command line tool. Address it by its username, a command like `/help`, then a series of option-value pairs like `--start 'word words words'`.",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "Briefvoice",
+        "author_id": "344262886564298753",
+        "timestamp": "2017-09-10T16:29:44.784000+00:00",
+        "edited": null,
+        "content": "@vebyast-quote-bot-tbg /help copy many words",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "vebyast-quote-bot-tbg",
+        "author_id": "348478356830027777",
+        "timestamp": "2017-09-10T16:29:44.801000+00:00",
+        "edited": "2017-09-10T16:29:44.954000+00:00",
+        "content": "```usage: @vebyast-quote-bot-tbg /command [arguments]\n\nA bot for saving quotes from a discord server.\n\nAvailable commands:\n\n  /add            Add a quote to the database\n  /remove         Remove a quote from the database\n  /get            Print out a quote from the database\n  /clean          Clean up this bot's output\n  /help           Output this message\n\nIssue \"@vebyast-quote-bot-tbg /command --help\" for help with each individual command.\n\nQuotes uploaded using this bot can be viewed at https://to-boldly-go.github.io/discord-quotes/index.html.\n```",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "vebyast",
+        "author_id": "248980478416125952",
+        "timestamp": "2017-09-10T16:30:22.216000+00:00",
+        "edited": null,
+        "content": "If you have a log that you can't locate by word search, either because it's old or not unique enough, you can turn on discord's developer mode to get message ids.",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "Briefvoice",
+        "author_id": "344262886564298753",
+        "timestamp": "2017-09-10T16:30:32.647000+00:00",
+        "edited": null,
+        "content": "Ehhhhh.",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "Briefvoice",
+        "author_id": "344262886564298753",
+        "timestamp": "2017-09-10T16:30:55.160000+00:00",
+        "edited": null,
+        "content": "How do I tell it what I want it to copy?",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "Briefvoice",
+        "author_id": "344262886564298753",
+        "timestamp": "2017-09-10T16:31:25.666000+00:00",
+        "edited": null,
+        "content": "@vebyast-quote-bot-tbg /addIf you have a log that you can't locate by word search, either because it's old or not unique enough, you can turn on discord's developer mode to get message ids.",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "vebyast",
+        "author_id": "248980478416125952",
+        "timestamp": "2017-09-10T16:31:30.434000+00:00",
+        "edited": null,
+        "content": "Treat the bot like you would a piece of paperwork or a spreadsheet, it is as dumb as a brick and will do precisely what you tell it to and no more.",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "Briefvoice",
+        "author_id": "344262886564298753",
+        "timestamp": "2017-09-10T16:31:32.249000+00:00",
+        "edited": null,
+        "content": "Nope, that didn't work.",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "vebyast",
+        "author_id": "248980478416125952",
+        "timestamp": "2017-09-10T16:31:42.661000+00:00",
+        "edited": null,
+        "content": "A log is defined by a start and an end.",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "vebyast",
+        "author_id": "248980478416125952",
+        "timestamp": "2017-09-10T16:31:56.678000+00:00",
+        "edited": null,
+        "content": "Everything inside that including the start and end, gets copied.",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "Briefvoice",
+        "author_id": "344262886564298753",
+        "timestamp": "2017-09-10T16:32:04.527000+00:00",
+        "edited": null,
+        "content": "Okay... how do I identify the start and the end?",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "vebyast",
+        "author_id": "248980478416125952",
+        "timestamp": "2017-09-10T16:32:17.442000+00:00",
+        "edited": null,
+        "content": "A value is exactly a single word or a string delimited by single quotes 'like this is a single value'.",
+        "authorcolor": null,
+        "attachments": []
+      }
+    ],
+    "quoted": "2017-09-10T16:34:11.749750",
+    "server": "To Boldly Go",
+    "channel": "sdb-informatics"
   }
 ]

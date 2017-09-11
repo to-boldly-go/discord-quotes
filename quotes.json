@@ -1171,5 +1171,94 @@
     "quoted": "2017-09-10T16:49:26.601375",
     "server": "To Boldly Go",
     "channel": "sdb-informatics"
+  },
+  {
+    "id": "356631437170180097",
+    "lines": [
+      {
+        "author": "CAPT Victoria Villeneuve",
+        "author_id": "261636485692915713",
+        "timestamp": "2017-09-11T02:38:32.378000+00:00",
+        "edited": null,
+        "content": "gonna go ahead and blame it on canning Linderly if we did that",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "Kiarael",
+        "author_id": "276191614244880384",
+        "timestamp": "2017-09-11T02:38:35.034000+00:00",
+        "edited": null,
+        "content": "*Giggles*",
+        "authorcolor": "#1F8B4C",
+        "attachments": []
+      },
+      {
+        "author": "Forgothrax",
+        "author_id": "340866029901053954",
+        "timestamp": "2017-09-11T02:38:45.271000+00:00",
+        "edited": null,
+        "content": "Jesus Christ, it's Excelsior Sickbay time this year.",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "anon_user",
+        "author_id": "205672342100246528",
+        "timestamp": "2017-09-11T02:39:35.962000+00:00",
+        "edited": null,
+        "content": "hey i bet the ked paddah are feeling real happy we convinced them to sell a capship to the Tauni now.",
+        "authorcolor": "#546E7A",
+        "attachments": []
+      },
+      {
+        "author": "Piemanlives",
+        "author_id": "99006238318137344",
+        "timestamp": "2017-09-11T02:39:53.546000+00:00",
+        "edited": null,
+        "content": "Welp.",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "Kiarael",
+        "author_id": "276191614244880384",
+        "timestamp": "2017-09-11T02:39:58.906000+00:00",
+        "edited": null,
+        "content": "> : D",
+        "authorcolor": "#1F8B4C",
+        "attachments": []
+      },
+      {
+        "author": "Piemanlives",
+        "author_id": "99006238318137344",
+        "timestamp": "2017-09-11T02:40:01.376000+00:00",
+        "edited": null,
+        "content": "That was a mess.",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "Piemanlives",
+        "author_id": "99006238318137344",
+        "timestamp": "2017-09-11T02:40:14.896000+00:00",
+        "edited": null,
+        "content": "A very big mess as it were.",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "Iron Wolf",
+        "author_id": "205517498995572737",
+        "timestamp": "2017-09-11T02:40:19.325000+00:00",
+        "edited": null,
+        "content": "We sort of split the difference and decided Linderly got the rest of the year to retire",
+        "authorcolor": "#FF9CFB",
+        "attachments": []
+      }
+    ],
+    "quoted": "2017-09-11T02:46:01.355942",
+    "server": "To Boldly Go",
+    "channel": "general"
   }
 ]

@@ -1772,5 +1772,112 @@
     "quoted": "2017-09-12T04:31:09.576175",
     "server": "To Boldly Go",
     "channel": "sdb-informatics"
+  },
+  {
+    "id": "357955259131363330",
+    "lines": [
+      {
+        "author": "Forgothrax",
+        "author_id": "340866029901053954",
+        "timestamp": "2017-09-12T17:22:49.788000+00:00",
+        "edited": null,
+        "content": "We don't get to put Starbases in the GBZ, the GBZ commander does that",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "pbluekan",
+        "author_id": "262802251603640322",
+        "timestamp": "2017-09-12T17:23:07.884000+00:00",
+        "edited": null,
+        "content": "Then we need a few on the Horizon Border",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "pbluekan",
+        "author_id": "262802251603640322",
+        "timestamp": "2017-09-12T17:23:22.656000+00:00",
+        "edited": null,
+        "content": "I'm not saying we should do it.  You asked where they were needed.",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "Forgothrax",
+        "author_id": "340866029901053954",
+        "timestamp": "2017-09-12T17:23:44.917000+00:00",
+        "edited": null,
+        "content": "Unfortunately, we need them in the GBZ more than ever...",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "pbluekan",
+        "author_id": "262802251603640322",
+        "timestamp": "2017-09-12T17:24:26.584000+00:00",
+        "edited": null,
+        "content": "And I dunno about the GBZ command being he only ones to put up starbases there.  I feel there would have already been one if that were the case",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "Forgothrax",
+        "author_id": "340866029901053954",
+        "timestamp": "2017-09-12T17:24:32.822000+00:00",
+        "edited": null,
+        "content": "I think I mentioned it before, but can you ask shark about lighting changes and Starbases for the GBZ @Leila ?",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "Briefvoice",
+        "author_id": "344262886564298753",
+        "timestamp": "2017-09-12T17:25:15.141000+00:00",
+        "edited": null,
+        "content": "Request new Starbase I [Write in Sector] 20pp, +12pp for each Starbase past the first in-sector - GBZ Invalid",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "Briefvoice",
+        "author_id": "344262886564298753",
+        "timestamp": "2017-09-12T17:25:26.939000+00:00",
+        "edited": null,
+        "content": "That was the 2318 Snakepit vote option for starbases.",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "Briefvoice",
+        "author_id": "344262886564298753",
+        "timestamp": "2017-09-12T17:26:19.262000+00:00",
+        "edited": null,
+        "content": "Our Starfleet Ambition means we are required to put at least one Starbase in every border zone, so the LBZ and HBZ need one.",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "Briefvoice",
+        "author_id": "344262886564298753",
+        "timestamp": "2017-09-12T17:26:25.844000+00:00",
+        "edited": null,
+        "content": "Also, we owe Caldonia one.",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "Leila",
+        "author_id": "150998587281637376",
+        "timestamp": "2017-09-12T17:26:42.762000+00:00",
+        "edited": null,
+        "content": "I think starbases in gbz will be greenlit now",
+        "authorcolor": "#11806A",
+        "attachments": []
+      }
+    ],
+    "quoted": "2017-09-14T18:26:24.775100",
+    "server": "To Boldly Go",
+    "channel": "general"
   }
 ]

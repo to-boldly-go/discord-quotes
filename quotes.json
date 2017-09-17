@@ -1879,5 +1879,67 @@
     "quoted": "2017-09-14T18:26:24.775100",
     "server": "To Boldly Go",
     "channel": "general"
+  },
+  {
+    "id": "358998787374579713",
+    "lines": [
+      {
+        "author": "Kiarael",
+        "author_id": "276191614244880384",
+        "timestamp": "2017-09-17T15:21:20.667000+00:00",
+        "edited": null,
+        "content": "Chad is young at heart!",
+        "authorcolor": "#1F8B4C",
+        "attachments": []
+      },
+      {
+        "author": "Kiarael",
+        "author_id": "276191614244880384",
+        "timestamp": "2017-09-17T15:21:34.282000+00:00",
+        "edited": null,
+        "content": "I hope to see him as The PC some day!",
+        "authorcolor": "#1F8B4C",
+        "attachments": []
+      },
+      {
+        "author": "Nix",
+        "author_id": "340811804185985034",
+        "timestamp": "2017-09-17T15:24:20.886000+00:00",
+        "edited": "2017-09-17T15:25:45.061000+00:00",
+        "content": "He needs to be promoted to Commodore now if he wants to make CoSF",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "Leila",
+        "author_id": "150998587281637376",
+        "timestamp": "2017-09-17T15:26:17.746000+00:00",
+        "edited": null,
+        "content": "I won't lie",
+        "authorcolor": "#11806A",
+        "attachments": []
+      },
+      {
+        "author": "Leila",
+        "author_id": "150998587281637376",
+        "timestamp": "2017-09-17T15:26:20.138000+00:00",
+        "edited": null,
+        "content": "chad as pc",
+        "authorcolor": "#11806A",
+        "attachments": []
+      },
+      {
+        "author": "Leila",
+        "author_id": "150998587281637376",
+        "timestamp": "2017-09-17T15:26:37.774000+00:00",
+        "edited": null,
+        "content": "is one reason why I decided he's getting promoted now if he doesn't get a second 5ym",
+        "authorcolor": "#11806A",
+        "attachments": []
+      }
+    ],
+    "quoted": "2017-09-17T15:33:01.955285",
+    "server": "To Boldly Go",
+    "channel": "general"
   }
 ]

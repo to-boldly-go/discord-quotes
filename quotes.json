@@ -1941,5 +1941,40 @@
     "quoted": "2017-09-17T15:33:01.955285",
     "server": "To Boldly Go",
     "channel": "general"
+  },
+  {
+    "id": "360014553683329025",
+    "lines": [
+      {
+        "author": "Nix",
+        "author_id": "340811804185985034",
+        "timestamp": "2017-09-18T12:57:43.096000+00:00",
+        "edited": null,
+        "content": "Which snakepit options require infrastructure points? Clearly starbases, shipyards, shipyard expansions and outposts (when available) do. Probably also colonies, academy expansions and listening posts. Abstract things like threat, militarisation and reorgs probably don't. What about tech teams, critical infrastructure, heavy industrial parks?",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "Oneiros",
+        "author_id": "164407298008023040",
+        "timestamp": "2017-09-18T13:00:38.370000+00:00",
+        "edited": null,
+        "content": "not tech teams, not academy expansions",
+        "authorcolor": "#AD1457",
+        "attachments": []
+      },
+      {
+        "author": "Briefvoice",
+        "author_id": "344262886564298753",
+        "timestamp": "2017-09-18T13:05:38.008000+00:00",
+        "edited": null,
+        "content": "I would have thought for sure academy expansions, since members spend infrastructure points to increase their own crew income.",
+        "authorcolor": null,
+        "attachments": []
+      }
+    ],
+    "quoted": "2017-09-20T10:49:18.835423",
+    "server": "To Boldly Go",
+    "channel": "general"
   }
 ]

@@ -1976,5 +1976,31 @@
     "quoted": "2017-09-20T10:49:18.835423",
     "server": "To Boldly Go",
     "channel": "general"
+  },
+  {
+    "id": "361315042857189376",
+    "lines": [
+      {
+        "author": "Iron Wolf",
+        "author_id": "205517498995572737",
+        "timestamp": "2017-09-24T00:18:39.491000+00:00",
+        "edited": null,
+        "content": "if you have two separate warp cores ur ship goes ZOOM",
+        "authorcolor": "#FF9CFB",
+        "attachments": []
+      },
+      {
+        "author": "Iron Wolf",
+        "author_id": "205517498995572737",
+        "timestamp": "2017-09-24T00:18:40.545000+00:00",
+        "edited": null,
+        "content": "fact",
+        "authorcolor": "#FF9CFB",
+        "attachments": []
+      }
+    ],
+    "quoted": "2017-09-24T00:56:59.918248",
+    "server": "To Boldly Go",
+    "channel": "sdb-informatics"
   }
 ]

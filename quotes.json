@@ -2002,5 +2002,31 @@
     "quoted": "2017-09-24T00:56:59.918248",
     "server": "To Boldly Go",
     "channel": "sdb-informatics"
+  },
+  {
+    "id": "363014429513613312",
+    "lines": [
+      {
+        "author": "anon_user",
+        "author_id": "205672342100246528",
+        "timestamp": "2017-09-28T17:03:01.317000+00:00",
+        "edited": null,
+        "content": "\"and the one ejected it's warp core-secure that drone for study.\" - Word of GMs: that gets corrected to Warp Core Breach, since there's no reason for a drone to worry about ejecting its warp core.",
+        "authorcolor": "#546E7A",
+        "attachments": []
+      },
+      {
+        "author": "anon_user",
+        "author_id": "205672342100246528",
+        "timestamp": "2017-09-28T17:03:13.316000+00:00",
+        "edited": null,
+        "content": "no crew to worry about",
+        "authorcolor": "#546E7A",
+        "attachments": []
+      }
+    ],
+    "quoted": "2017-09-28T17:29:44.938013",
+    "server": "To Boldly Go",
+    "channel": "general"
   }
 ]

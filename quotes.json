@@ -2028,5 +2028,247 @@
     "quoted": "2017-09-28T17:29:44.938013",
     "server": "To Boldly Go",
     "channel": "general"
+  },
+  {
+    "id": "363515471418621952",
+    "lines": [
+      {
+        "author": "Piemanlives",
+        "author_id": "99006238318137344",
+        "timestamp": "2017-09-30T02:15:38.599000+00:00",
+        "edited": null,
+        "content": "So basically a system to dictate missions ala Syndicate Task Force without greater crisis in the process.",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "Piemanlives",
+        "author_id": "99006238318137344",
+        "timestamp": "2017-09-30T02:15:53.693000+00:00",
+        "edited": null,
+        "content": "Well, there could be a crisis.",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "Kiarael",
+        "author_id": "276191614244880384",
+        "timestamp": "2017-09-30T02:17:59.551000+00:00",
+        "edited": null,
+        "content": "But it could aslo head off a brewing crisis",
+        "authorcolor": "#1F8B4C",
+        "attachments": []
+      },
+      {
+        "author": "Kiarael",
+        "author_id": "276191614244880384",
+        "timestamp": "2017-09-30T02:18:15.369000+00:00",
+        "edited": null,
+        "content": "It could just bumble around doing random stuff",
+        "authorcolor": "#1F8B4C",
+        "attachments": []
+      },
+      {
+        "author": "Kiarael",
+        "author_id": "276191614244880384",
+        "timestamp": "2017-09-30T02:18:27.078000+00:00",
+        "edited": null,
+        "content": "Like handling diplomatic issues",
+        "authorcolor": "#1F8B4C",
+        "attachments": []
+      },
+      {
+        "author": "Kiarael",
+        "author_id": "276191614244880384",
+        "timestamp": "2017-09-30T02:18:42.136000+00:00",
+        "edited": null,
+        "content": "or studing scientific stuff",
+        "authorcolor": "#1F8B4C",
+        "attachments": []
+      },
+      {
+        "author": "swb",
+        "author_id": "139161925538807808",
+        "timestamp": "2017-09-30T02:25:15.043000+00:00",
+        "edited": null,
+        "content": "The only confusing thing to me us how they interact with event narratives",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "Kiarael",
+        "author_id": "276191614244880384",
+        "timestamp": "2017-09-30T02:25:29.524000+00:00",
+        "edited": null,
+        "content": "Oh?",
+        "authorcolor": "#1F8B4C",
+        "attachments": []
+      },
+      {
+        "author": "swb",
+        "author_id": "139161925538807808",
+        "timestamp": "2017-09-30T02:26:44.536000+00:00",
+        "edited": null,
+        "content": "Like, if we set one doing Horizon pushback diplo, our regular fleet would still do the same, so how would the chance to fail more events benefit us. Obviously that's an extreme example but it's an argument that's been made in the past",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "Kiarael",
+        "author_id": "276191614244880384",
+        "timestamp": "2017-09-30T02:27:25.451000+00:00",
+        "edited": "2017-09-30T02:28:02.429000+00:00",
+        "content": "The regular sector fleets handle stuff /that happens to us/",
+        "authorcolor": "#1F8B4C",
+        "attachments": []
+      },
+      {
+        "author": "swb",
+        "author_id": "139161925538807808",
+        "timestamp": "2017-09-30T02:27:32.346000+00:00",
+        "edited": null,
+        "content": "Basically, it seems that we pull ships away from the existing event system to generate more events, both good and bad",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "Kiarael",
+        "author_id": "276191614244880384",
+        "timestamp": "2017-09-30T02:27:34.286000+00:00",
+        "edited": null,
+        "content": "THe Task forces are us /doing stuff/",
+        "authorcolor": "#1F8B4C",
+        "attachments": []
+      },
+      {
+        "author": "swb",
+        "author_id": "139161925538807808",
+        "timestamp": "2017-09-30T02:28:15.841000+00:00",
+        "edited": null,
+        "content": "Ah, so the task force against the Horizon would be seeking out opportunities rather than responding to them",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "Kiarael",
+        "author_id": "276191614244880384",
+        "timestamp": "2017-09-30T02:28:19.946000+00:00",
+        "edited": null,
+        "content": "Yes",
+        "authorcolor": "#1F8B4C",
+        "attachments": []
+      },
+      {
+        "author": "Kiarael",
+        "author_id": "276191614244880384",
+        "timestamp": "2017-09-30T02:28:21.973000+00:00",
+        "edited": null,
+        "content": "exactly",
+        "authorcolor": "#1F8B4C",
+        "attachments": []
+      },
+      {
+        "author": "swb",
+        "author_id": "139161925538807808",
+        "timestamp": "2017-09-30T02:29:00.209000+00:00",
+        "edited": null,
+        "content": "Rather than terrorists on Betazed it would be we've uncovered a Red Claw base and are raiding it",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "Kiarael",
+        "author_id": "276191614244880384",
+        "timestamp": "2017-09-30T02:29:11.516000+00:00",
+        "edited": null,
+        "content": "Yes",
+        "authorcolor": "#1F8B4C",
+        "attachments": []
+      },
+      {
+        "author": "Kiarael",
+        "author_id": "276191614244880384",
+        "timestamp": "2017-09-30T02:29:40.635000+00:00",
+        "edited": "2017-09-30T02:30:27.679000+00:00",
+        "content": "We understood the complaints about lack of agency and realized where it was probably coming from",
+        "authorcolor": "#1F8B4C",
+        "attachments": []
+      },
+      {
+        "author": "Kiarael",
+        "author_id": "276191614244880384",
+        "timestamp": "2017-09-30T02:29:46.856000+00:00",
+        "edited": "2017-09-30T02:30:18.249000+00:00",
+        "content": "so this is our attempt to address that",
+        "authorcolor": "#1F8B4C",
+        "attachments": []
+      },
+      {
+        "author": "swb",
+        "author_id": "139161925538807808",
+        "timestamp": "2017-09-30T02:31:03.168000+00:00",
+        "edited": null,
+        "content": "Could we have reactionary task forces, as in \"your job is to control situations that have escalated in ~subject area~",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "Piemanlives",
+        "author_id": "99006238318137344",
+        "timestamp": "2017-09-30T02:31:13.877000+00:00",
+        "edited": null,
+        "content": "Question is where are we going to get the ships...",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "swb",
+        "author_id": "139161925538807808",
+        "timestamp": "2017-09-30T02:31:25.444000+00:00",
+        "edited": null,
+        "content": "The question is already where do we get the ships",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "swb",
+        "author_id": "139161925538807808",
+        "timestamp": "2017-09-30T02:31:50.065000+00:00",
+        "edited": null,
+        "content": "That was supposed to be always instead of already but already works",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "Piemanlives",
+        "author_id": "99006238318137344",
+        "timestamp": "2017-09-30T02:32:03.728000+00:00",
+        "edited": null,
+        "content": "Heh.",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "Kiarael",
+        "author_id": "276191614244880384",
+        "timestamp": "2017-09-30T02:32:20.384000+00:00",
+        "edited": null,
+        "content": "It's not unintentional that this is sort of a ship sink",
+        "authorcolor": "#1F8B4C",
+        "attachments": []
+      },
+      {
+        "author": "Kiarael",
+        "author_id": "276191614244880384",
+        "timestamp": "2017-09-30T02:32:47.032000+00:00",
+        "edited": null,
+        "content": "The missions will be provided by us going forwards, though we will accept suggestions",
+        "authorcolor": "#1F8B4C",
+        "attachments": []
+      }
+    ],
+    "quoted": "2017-09-30T02:40:43.184352",
+    "server": "To Boldly Go",
+    "channel": "general"
   }
 ]

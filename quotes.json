@@ -2270,5 +2270,40 @@
     "quoted": "2017-09-30T02:40:43.184352",
     "server": "To Boldly Go",
     "channel": "general"
+  },
+  {
+    "id": "367386093487652865",
+    "lines": [
+      {
+        "author": "Forgothrax",
+        "author_id": "340866029901053954",
+        "timestamp": "2017-10-07T15:06:38.022000+00:00",
+        "edited": null,
+        "content": "@Oneiros what exactly does \"build Isolinear Computers\" mean? Snakepit option?",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "Vehrec",
+        "author_id": "199003703703896064",
+        "timestamp": "2017-10-07T15:06:45.957000+00:00",
+        "edited": null,
+        "content": "why is Hawke using such an aggressive and dangerous looking style of typing?",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "Oneiros",
+        "author_id": "164407298008023040",
+        "timestamp": "2017-10-07T15:07:00.695000+00:00",
+        "edited": null,
+        "content": "no, I mean if you put it into a ship it accelerates Isolinear research",
+        "authorcolor": "#AD1457",
+        "attachments": []
+      }
+    ],
+    "quoted": "2017-10-10T19:01:10.945670",
+    "server": "To Boldly Go",
+    "channel": "general"
   }
 ]

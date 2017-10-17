@@ -2385,5 +2385,121 @@
     "quoted": "2017-10-17T23:29:18.803184",
     "server": "To Boldly Go",
     "channel": "general"
+  },
+  {
+    "id": "369990414507311114",
+    "lines": [
+      {
+        "author": "Leila",
+        "author_id": "150998587281637376",
+        "timestamp": "2017-09-10T09:54:02.174000+00:00",
+        "edited": null,
+        "content": "Also",
+        "authorcolor": "#11806A",
+        "attachments": []
+      },
+      {
+        "author": "Leila",
+        "author_id": "150998587281637376",
+        "timestamp": "2017-09-10T09:54:04.552000+00:00",
+        "edited": null,
+        "content": "Chen",
+        "authorcolor": "#11806A",
+        "attachments": []
+      },
+      {
+        "author": "Leila",
+        "author_id": "150998587281637376",
+        "timestamp": "2017-09-10T09:54:12.561000+00:00",
+        "edited": null,
+        "content": "Is getting nerfed",
+        "authorcolor": "#11806A",
+        "attachments": []
+      },
+      {
+        "author": "Aledeth",
+        "author_id": "346193050491682816",
+        "timestamp": "2017-09-10T09:54:17.239000+00:00",
+        "edited": null,
+        "content": "I figured",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "Leila",
+        "author_id": "150998587281637376",
+        "timestamp": "2017-09-10T09:54:25.143000+00:00",
+        "edited": null,
+        "content": "This is just absurd",
+        "authorcolor": "#11806A",
+        "attachments": []
+      },
+      {
+        "author": "Leila",
+        "author_id": "150998587281637376",
+        "timestamp": "2017-09-10T09:54:41.436000+00:00",
+        "edited": null,
+        "content": "Theres almost no point in rolling for ship response",
+        "authorcolor": "#11806A",
+        "attachments": []
+      },
+      {
+        "author": "Aledeth",
+        "author_id": "346193050491682816",
+        "timestamp": "2017-09-10T09:54:55.119000+00:00",
+        "edited": null,
+        "content": "I think the combo of Chen and BZ able to respond to interior events just makes things absurd",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "Leila",
+        "author_id": "150998587281637376",
+        "timestamp": "2017-09-10T09:55:01.897000+00:00",
+        "edited": null,
+        "content": "Yes",
+        "authorcolor": "#11806A",
+        "attachments": []
+      },
+      {
+        "author": "Leila",
+        "author_id": "150998587281637376",
+        "timestamp": "2017-09-10T09:55:07.025000+00:00",
+        "edited": null,
+        "content": "Just that",
+        "authorcolor": "#11806A",
+        "attachments": []
+      },
+      {
+        "author": "Leila",
+        "author_id": "150998587281637376",
+        "timestamp": "2017-09-10T09:55:55.627000+00:00",
+        "edited": null,
+        "content": "Going forward, Chen will probably cap at 1-2 multis per quarter",
+        "authorcolor": "#11806A",
+        "attachments": []
+      },
+      {
+        "author": "Aledeth",
+        "author_id": "346193050491682816",
+        "timestamp": "2017-09-10T09:56:04.066000+00:00",
+        "edited": null,
+        "content": "still a sweet sweet bonus",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "Leila",
+        "author_id": "150998587281637376",
+        "timestamp": "2017-09-10T09:56:09.792000+00:00",
+        "edited": null,
+        "content": "Yes",
+        "authorcolor": "#11806A",
+        "attachments": []
+      }
+    ],
+    "quoted": "2017-10-17T23:29:49.343594",
+    "server": "To Boldly Go",
+    "channel": "general"
   }
 ]

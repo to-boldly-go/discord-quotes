@@ -2305,5 +2305,85 @@
     "quoted": "2017-10-10T19:01:10.945670",
     "server": "To Boldly Go",
     "channel": "general"
+  },
+  {
+    "id": "369990286580908032",
+    "lines": [
+      {
+        "author": "Leila",
+        "author_id": "150998587281637376",
+        "timestamp": "2017-09-12T16:33:25.122000+00:00",
+        "edited": null,
+        "content": "also, chen op",
+        "authorcolor": "#11806A",
+        "attachments": []
+      },
+      {
+        "author": "Leila",
+        "author_id": "150998587281637376",
+        "timestamp": "2017-09-12T16:33:31.238000+00:00",
+        "edited": null,
+        "content": "we nerfed chen after that quarter",
+        "authorcolor": "#11806A",
+        "attachments": []
+      },
+      {
+        "author": "Briefvoice",
+        "author_id": "344262886564298753",
+        "timestamp": "2017-09-12T16:33:40.084000+00:00",
+        "edited": "2017-09-12T16:34:17.919000+00:00",
+        "content": "We would have missed more events, but in principle there was no reason we couldn't have said, \"Well keep them another three months or however long\".",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "Leila",
+        "author_id": "150998587281637376",
+        "timestamp": "2017-09-12T16:33:51.202000+00:00",
+        "edited": null,
+        "content": "right",
+        "authorcolor": "#11806A",
+        "attachments": []
+      },
+      {
+        "author": "Leila",
+        "author_id": "150998587281637376",
+        "timestamp": "2017-09-12T16:34:03.612000+00:00",
+        "edited": null,
+        "content": "you also left juuuuuust about the right number of ships to defend your own systems",
+        "authorcolor": "#11806A",
+        "attachments": []
+      },
+      {
+        "author": "Leila",
+        "author_id": "150998587281637376",
+        "timestamp": "2017-09-12T16:34:36.831000+00:00",
+        "edited": null,
+        "content": "if there had been any less, the dylaarians and the rest of the goshawnar fleet would have attacked you en masse while nash was on the way to 45 gabriel",
+        "authorcolor": "#11806A",
+        "attachments": []
+      },
+      {
+        "author": "Nix",
+        "author_id": "340811804185985034",
+        "timestamp": "2017-09-12T16:35:03.263000+00:00",
+        "edited": null,
+        "content": "How was chen nerfed? Limit to the number of ships per quarter that can get a second event?",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "Leila",
+        "author_id": "150998587281637376",
+        "timestamp": "2017-09-12T16:35:07.829000+00:00",
+        "edited": null,
+        "content": "yes",
+        "authorcolor": "#11806A",
+        "attachments": []
+      }
+    ],
+    "quoted": "2017-10-17T23:29:18.803184",
+    "server": "To Boldly Go",
+    "channel": "general"
   }
 ]

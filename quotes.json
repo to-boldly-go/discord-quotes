@@ -1,6 +1,7 @@
 [
   {
     "id": "354367283130531841",
+    "channel": "general",
     "lines": [
       {
         "author_id": "150998587281637376",
@@ -138,12 +139,12 @@
         "content": "and I'll probably just have nash do that automatically if you attack 24 enio"
       }
     ],
-    "channel": "general",
     "quoted": "2017-09-04T20:49:04.995262",
     "server": "To Boldly Go"
   },
   {
     "id": "354372032907051010",
+    "channel": "general",
     "lines": [
       {
         "author_id": "150998587281637376",
@@ -164,12 +165,12 @@
         "content": "\"Nash dies next post. Its canon.\""
       }
     ],
-    "channel": "general",
     "quoted": "2017-09-04T21:07:57.006401",
     "server": "To Boldly Go"
   },
   {
     "id": "354396277955624982",
+    "channel": "shipdesignbureau",
     "lines": [
       {
         "author_id": "340866029901053954",
@@ -208,12 +209,12 @@
         "content": "You evil GM, you."
       }
     ],
-    "channel": "shipdesignbureau",
     "quoted": "2017-09-04T22:44:17.860329",
     "server": "To Boldly Go"
   },
   {
     "id": "354430211737255938",
+    "channel": "general",
     "lines": [
       {
         "author_id": "165084630054207488",
@@ -297,12 +298,12 @@
         "content": "oh dear"
       }
     ],
-    "channel": "general",
     "quoted": "2017-09-05T00:59:08.187853",
     "server": "To Boldly Go"
   },
   {
     "id": "354703593397288966",
+    "channel": "general",
     "lines": [
       {
         "author_id": "139161925538807808",
@@ -368,12 +369,12 @@
         "content": "it wasn't a MWCO issue. Member worlds have had access to starfleet tech since before that office existed."
       }
     ],
-    "channel": "general",
     "quoted": "2017-09-05T19:05:41.298608",
     "server": "To Boldly Go"
   },
   {
     "id": "354725537924775936",
+    "channel": "general",
     "lines": [
       {
         "author_id": "165084630054207488",
@@ -511,12 +512,12 @@
         "content": "there's a reason their entire fleet isn't on your border"
       }
     ],
-    "channel": "general",
     "quoted": "2017-09-05T20:32:39.603755",
     "server": "To Boldly Go"
   },
   {
     "id": "354742735833661441",
+    "channel": "general",
     "lines": [
       {
         "author_id": "150998587281637376",
@@ -573,12 +574,12 @@
         "content": "you can thank Rivers for them not already having one, when she set back their development of that system"
       }
     ],
-    "channel": "general",
     "quoted": "2017-09-05T21:40:59.666821",
     "server": "To Boldly Go"
   },
   {
     "id": "354743040671350784",
+    "channel": "general",
     "lines": [
       {
         "author_id": "150998587281637376",
@@ -797,12 +798,12 @@
         "content": "Yea, same with Dorsata"
       }
     ],
-    "channel": "general",
     "quoted": "2017-09-05T21:42:12.179341",
     "server": "To Boldly Go"
   },
   {
     "id": "354843410474991616",
+    "channel": "general",
     "lines": [
       {
         "author_id": "205517498995572737",
@@ -814,12 +815,12 @@
         "content": "It's more \"If you keep Linderley now, The GMs Will Remember That\" and if the GBZ campaign goes certain directions, that will be considered when deciding other political ramifications."
       }
     ],
-    "channel": "general",
     "quoted": "2017-09-06T04:21:02.128177",
     "server": "To Boldly Go"
   },
   {
     "id": "355060651288428556",
+    "channel": "general",
     "lines": [
       {
         "author_id": "150998587281637376",
@@ -849,12 +850,12 @@
         "content": "Nash Magic, once again."
       }
     ],
-    "channel": "general",
     "quoted": "2017-09-06T18:44:16.994395",
     "server": "To Boldly Go"
   },
   {
     "id": "355096211960889345",
+    "channel": "general",
     "lines": [
       {
         "author_id": "205672342100246528",
@@ -893,12 +894,12 @@
         "content": "maybe I took Reason off the list instead of Insight"
       }
     ],
-    "channel": "general",
     "quoted": "2017-09-06T21:05:34.891452",
     "server": "To Boldly Go"
   },
   {
     "id": "355129105269784589",
+    "channel": "general",
     "lines": [
       {
         "author_id": "205517498995572737",
@@ -910,12 +911,12 @@
         "content": "I skipped GM orientation for a beer garden, you can QUOTE that as WOG"
       }
     ],
-    "channel": "general",
     "quoted": "2017-09-06T23:16:17.535102",
     "server": "To Boldly Go"
   },
   {
     "id": "355198521714016259",
+    "channel": "general",
     "lines": [
       {
         "author_id": "248980478416125952",
@@ -981,12 +982,12 @@
         "content": "haha"
       }
     ],
-    "channel": "general",
     "quoted": "2017-09-07T03:52:07.327860",
     "server": "To Boldly Go"
   },
   {
     "id": "356477464643502080",
+    "channel": "sdb-informatics",
     "lines": [
       {
         "author_id": "248980478416125952",
@@ -1106,12 +1107,12 @@
         "content": "A value is exactly a single word or a string delimited by single quotes 'like this is a single value'."
       }
     ],
-    "channel": "sdb-informatics",
     "quoted": "2017-09-10T16:34:11.749750",
     "server": "To Boldly Go"
   },
   {
     "id": "356481303308271618",
+    "channel": "sdb-informatics",
     "lines": [
       {
         "author_id": "344262886564298753",
@@ -1168,12 +1169,12 @@
         "content": "You also need to specify a channel unless you're quoting out of the current channel. You do t hi s with the --channel option, and you type in and autocomplete the channel name with the #"
       }
     ],
-    "channel": "sdb-informatics",
     "quoted": "2017-09-10T16:49:26.601375",
     "server": "To Boldly Go"
   },
   {
     "id": "356631437170180097",
+    "channel": "general",
     "lines": [
       {
         "author_id": "261636485692915713",
@@ -1257,12 +1258,12 @@
         "content": "We sort of split the difference and decided Linderly got the rest of the year to retire"
       }
     ],
-    "channel": "general",
     "quoted": "2017-09-11T02:46:01.355942",
     "server": "To Boldly Go"
   },
   {
     "id": "357020285255286784",
+    "channel": "sdb-informatics",
     "lines": [
       {
         "author_id": "248980478416125952",
@@ -1769,12 +1770,12 @@
         "content": "Yeaaaaah, I'm just going to leave that alone for now. >_>'"
       }
     ],
-    "channel": "sdb-informatics",
     "quoted": "2017-09-12T04:31:09.576175",
     "server": "To Boldly Go"
   },
   {
     "id": "357955259131363330",
+    "channel": "general",
     "lines": [
       {
         "author_id": "340866029901053954",
@@ -1876,12 +1877,12 @@
         "content": "I think starbases in gbz will be greenlit now"
       }
     ],
-    "channel": "general",
     "quoted": "2017-09-14T18:26:24.775100",
     "server": "To Boldly Go"
   },
   {
     "id": "358998787374579713",
+    "channel": "general",
     "lines": [
       {
         "author_id": "276191614244880384",
@@ -1938,12 +1939,12 @@
         "content": "is one reason why I decided he's getting promoted now if he doesn't get a second 5ym"
       }
     ],
-    "channel": "general",
     "quoted": "2017-09-17T15:33:01.955285",
     "server": "To Boldly Go"
   },
   {
     "id": "360014553683329025",
+    "channel": "general",
     "lines": [
       {
         "author_id": "340811804185985034",
@@ -1973,12 +1974,12 @@
         "content": "I would have thought for sure academy expansions, since members spend infrastructure points to increase their own crew income."
       }
     ],
-    "channel": "general",
     "quoted": "2017-09-20T10:49:18.835423",
     "server": "To Boldly Go"
   },
   {
     "id": "361315042857189376",
+    "channel": "sdb-informatics",
     "lines": [
       {
         "author_id": "205517498995572737",
@@ -1999,12 +2000,12 @@
         "content": "fact"
       }
     ],
-    "channel": "sdb-informatics",
     "quoted": "2017-09-24T00:56:59.918248",
     "server": "To Boldly Go"
   },
   {
     "id": "363014429513613312",
+    "channel": "general",
     "lines": [
       {
         "author_id": "205672342100246528",
@@ -2025,12 +2026,12 @@
         "content": "no crew to worry about"
       }
     ],
-    "channel": "general",
     "quoted": "2017-09-28T17:29:44.938013",
     "server": "To Boldly Go"
   },
   {
     "id": "363515471418621952",
+    "channel": "general",
     "lines": [
       {
         "author_id": "99006238318137344",
@@ -2267,12 +2268,12 @@
         "content": "The missions will be provided by us going forwards, though we will accept suggestions"
       }
     ],
-    "channel": "general",
     "quoted": "2017-09-30T02:40:43.184352",
     "server": "To Boldly Go"
   },
   {
     "id": "367386093487652865",
+    "channel": "general",
     "lines": [
       {
         "author_id": "340866029901053954",
@@ -2302,12 +2303,12 @@
         "content": "no, I mean if you put it into a ship it accelerates Isolinear research"
       }
     ],
-    "channel": "general",
     "quoted": "2017-10-10T19:01:10.945670",
     "server": "To Boldly Go"
   },
   {
     "id": "369990286580908032",
+    "channel": "general",
     "lines": [
       {
         "author_id": "150998587281637376",
@@ -2382,12 +2383,12 @@
         "content": "yes"
       }
     ],
-    "channel": "general",
     "quoted": "2017-10-17T23:29:18.803184",
     "server": "To Boldly Go"
   },
   {
     "id": "369990414507311114",
+    "channel": "general",
     "lines": [
       {
         "author_id": "150998587281637376",
@@ -2498,12 +2499,12 @@
         "content": "Yes"
       }
     ],
-    "channel": "general",
     "quoted": "2017-10-17T23:29:49.343594",
     "server": "To Boldly Go"
   },
   {
     "id": "379576609251786762",
+    "channel": "general",
     "lines": [
       {
         "author_id": "214266904435490816",
@@ -2614,12 +2615,12 @@
         "content": "General relationship does whatever it wants"
       }
     ],
-    "channel": "general",
     "quoted": "2017-11-13T10:21:56.363503",
     "server": "To Boldly Go"
   },
   {
     "id": "379591554374959112",
+    "channel": "general",
     "lines": [
       {
         "author_id": "214266904435490816",
@@ -2658,12 +2659,12 @@
         "content": "awesome"
       }
     ],
-    "channel": "general",
     "quoted": "2017-11-13T11:21:19.609085",
     "server": "To Boldly Go"
   },
   {
     "id": "381334339863969793",
+    "channel": "general",
     "lines": [
       {
         "author_id": "214266904435490816",
@@ -2756,12 +2757,12 @@
         "content": "since it was at 60, we were hoping Dylaarians wouldn't be that antagonistic"
       }
     ],
-    "channel": "general",
     "quoted": "2017-11-18T06:46:32.050585",
     "server": "To Boldly Go"
   },
   {
     "id": "381334564468948992",
+    "channel": "general",
     "lines": [
       {
         "author_id": "164407298008023040",
@@ -2791,14 +2792,14 @@
         "content": "the way that AKuz worded it sounded like she was unsure: \"I think it's 60\""
       }
     ],
-    "channel": "general",
     "quoted": "2017-11-18T06:47:25.496607",
     "server": "To Boldly Go"
   },
   {
     "id": "384265043140935680",
-    "channel": "general",
     "server": "To Boldly Go",
+    "channel": "general",
+    "quoted": "2017-11-26T08:52:06.009978",
     "lines": [
       {
         "author_id": "214266904435490816",
@@ -2818,14 +2819,12 @@
         "edited": null,
         "content": "yeah, all still the same"
       }
-    ],
-    "quoted": "2017-11-26T08:52:06.009978"
+    ]
   },
   {
     "id": "385987273679699968",
-    "server": "To Boldly Go",
     "channel": "general",
-    "quoted": "2017-12-01T02:55:38.015034",
+    "server": "To Boldly Go",
     "lines": [
       {
         "author_id": "340866029901053954",
@@ -2863,12 +2862,14 @@
         "edited": null,
         "content": "@Forgothrax 6Q period. Unless you're the Klingons building Birds of Prey"
       }
-    ]
+    ],
+    "quoted": "2017-12-01T02:55:38.015034"
   },
   {
     "id": "385988216802639873",
-    "channel": "sdb-informatics",
     "server": "To Boldly Go",
+    "channel": "sdb-informatics",
+    "quoted": "2017-12-01T02:59:22.716986",
     "lines": [
       {
         "author_id": "340866029901053954",
@@ -2888,7 +2889,50 @@
         "edited": null,
         "content": "honestly happy to keep things simple and just say 12month for all non-fiat refits"
       }
+    ]
+  },
+  {
+    "id": "386003443522994177",
+    "channel": "shipdesignbureau",
+    "server": "To Boldly Go",
+    "lines": [
+      {
+        "author_id": "150998587281637376",
+        "attachments": [],
+        "authorcolor": "#11806A",
+        "author": "Leila",
+        "timestamp": "2017-11-27T14:29:51.074000+00:00",
+        "edited": null,
+        "content": "Well"
+      },
+      {
+        "author_id": "150998587281637376",
+        "attachments": [],
+        "authorcolor": "#11806A",
+        "author": "Leila",
+        "timestamp": "2017-11-27T14:29:57.828000+00:00",
+        "edited": null,
+        "content": "Youve already seen some"
+      },
+      {
+        "author_id": "150998587281637376",
+        "attachments": [],
+        "authorcolor": "#11806A",
+        "author": "Leila",
+        "timestamp": "2017-11-27T14:30:13.160000+00:00",
+        "edited": null,
+        "content": "Klingons and Romulans can cloak"
+      },
+      {
+        "author_id": "150998587281637376",
+        "attachments": [],
+        "authorcolor": "#11806A",
+        "author": "Leila",
+        "timestamp": "2017-11-27T14:30:45.875000+00:00",
+        "edited": null,
+        "content": "Your consties get a D bonus in some circumstances due to being built for sprinting"
+      }
     ],
-    "quoted": "2017-12-01T02:59:22.716986"
+    "quoted": "2017-12-01T03:59:53.211611"
   }
 ]

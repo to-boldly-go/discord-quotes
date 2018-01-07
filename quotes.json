@@ -3743,5 +3743,76 @@
     ],
     "id": "399696701486661652",
     "server": "To Boldly Go"
+  },
+  {
+    "quoted": "2018-01-07T22:54:26.435236",
+    "channel": "general",
+    "lines": [
+      {
+        "authorcolor": null,
+        "timestamp": "2017-12-30T12:36:34.041000+00:00",
+        "edited": "2017-12-30T12:36:56.780000+00:00",
+        "author": "Nix",
+        "author_id": "340811804185985034",
+        "attachments": [],
+        "content": "@GM and GM Accessories are any of the existing planets/systems in the LBZ on the way to major colony status/have major colony potential? Piara IV sounded a bit like it at least, being described as a not quite the garden world Betazed is and having way too many colonists to evacuate."
+      },
+      {
+        "authorcolor": null,
+        "timestamp": "2017-12-30T12:48:36.803000+00:00",
+        "edited": null,
+        "author": "Nix",
+        "author_id": "340811804185985034",
+        "attachments": [],
+        "content": "And Agat/Idaran transitioned from caretaker colonial government to a congress of institutes a decade ago."
+      },
+      {
+        "authorcolor": "#AD1457",
+        "timestamp": "2017-12-30T13:51:12.623000+00:00",
+        "edited": null,
+        "author": "Oneiros",
+        "author_id": "164407298008023040",
+        "attachments": [],
+        "content": "We're shifting to using infrastructure pts to upgrade minors to majors"
+      },
+      {
+        "authorcolor": "#AD1457",
+        "timestamp": "2017-12-30T13:51:13.991000+00:00",
+        "edited": null,
+        "author": "Oneiros",
+        "author_id": "164407298008023040",
+        "attachments": [],
+        "content": "also"
+      },
+      {
+        "authorcolor": "#AD1457",
+        "timestamp": "2017-12-30T13:51:23.147000+00:00",
+        "edited": null,
+        "author": "Oneiros",
+        "author_id": "164407298008023040",
+        "attachments": [],
+        "content": "Perth just lost to Sydney FC 6:0"
+      },
+      {
+        "authorcolor": "#AD1457",
+        "timestamp": "2017-12-30T13:51:23.561000+00:00",
+        "edited": null,
+        "author": "Oneiros",
+        "author_id": "164407298008023040",
+        "attachments": [],
+        "content": "so"
+      },
+      {
+        "authorcolor": "#AD1457",
+        "timestamp": "2017-12-30T13:51:36.465000+00:00",
+        "edited": null,
+        "author": "Oneiros",
+        "author_id": "164407298008023040",
+        "attachments": [],
+        "content": "I'm afraid I'll be having to blow up a ship selected at random D:<"
+      }
+    ],
+    "id": "399697314320482307",
+    "server": "To Boldly Go"
   }
 ]

@@ -3726,5 +3726,22 @@
     ],
     "id": "399376638858756096",
     "server": "To Boldly Go"
+  },
+  {
+    "quoted": "2018-01-07T22:52:00.421350",
+    "channel": "general",
+    "lines": [
+      {
+        "authorcolor": "#AD1457",
+        "timestamp": "2017-12-30T13:51:36.465000+00:00",
+        "edited": null,
+        "author": "Oneiros",
+        "author_id": "164407298008023040",
+        "attachments": [],
+        "content": "I'm afraid I'll be having to blow up a ship selected at random D:<"
+      }
+    ],
+    "id": "399696701486661652",
+    "server": "To Boldly Go"
   }
 ]

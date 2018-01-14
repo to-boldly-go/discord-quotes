@@ -3814,5 +3814,49 @@
     ],
     "id": "399697314320482307",
     "server": "To Boldly Go"
+  },
+  {
+    "quoted": "2018-01-14T00:51:55.786636",
+    "channel": "general",
+    "lines": [
+      {
+        "authorcolor": "#AD1457",
+        "timestamp": "2018-01-13T13:40:11.302000+00:00",
+        "edited": null,
+        "author": "Oneiros",
+        "author_id": "164407298008023040",
+        "attachments": [],
+        "content": "but a phaser array"
+      },
+      {
+        "authorcolor": "#AD1457",
+        "timestamp": "2018-01-13T13:40:55.376000+00:00",
+        "edited": null,
+        "author": "Oneiros",
+        "author_id": "164407298008023040",
+        "attachments": [],
+        "content": "that's a big change in EPS conduit configuration, your'll be shifting bulkheads, armour plating, etc"
+      },
+      {
+        "authorcolor": "#AD1457",
+        "timestamp": "2018-01-13T13:40:58.910000+00:00",
+        "edited": null,
+        "author": "Oneiros",
+        "author_id": "164407298008023040",
+        "attachments": [],
+        "content": "I'd say ..."
+      },
+      {
+        "authorcolor": "#AD1457",
+        "timestamp": "2018-01-13T13:41:19.818000+00:00",
+        "edited": null,
+        "author": "Oneiros",
+        "author_id": "164407298008023040",
+        "attachments": [],
+        "content": "In Q1 if someone can remind me I'll add an option to either SYO or MWCD"
+      }
+    ],
+    "id": "401901199529607169",
+    "server": "To Boldly Go"
   }
 ]

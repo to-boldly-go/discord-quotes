@@ -1,5 +1,7 @@
 [
   {
+    "id": "354367283130531841",
+    "quoted": "2017-09-04T20:49:04.995262",
     "lines": [
       {
         "edited": null,
@@ -137,12 +139,12 @@
         "timestamp": "2017-09-04T20:34:05.829000+00:00"
       }
     ],
-    "id": "354367283130531841",
-    "channel": "general",
     "server": "To Boldly Go",
-    "quoted": "2017-09-04T20:49:04.995262"
+    "channel": "general"
   },
   {
+    "id": "354372032907051010",
+    "quoted": "2017-09-04T21:07:57.006401",
     "lines": [
       {
         "edited": null,
@@ -163,12 +165,12 @@
         "timestamp": "2017-09-04T21:05:12.135000+00:00"
       }
     ],
-    "id": "354372032907051010",
-    "channel": "general",
     "server": "To Boldly Go",
-    "quoted": "2017-09-04T21:07:57.006401"
+    "channel": "general"
   },
   {
+    "id": "354396277955624982",
+    "quoted": "2017-09-04T22:44:17.860329",
     "lines": [
       {
         "edited": null,
@@ -207,12 +209,12 @@
         "timestamp": "2017-08-15T15:02:16.365000+00:00"
       }
     ],
-    "id": "354396277955624982",
-    "channel": "shipdesignbureau",
     "server": "To Boldly Go",
-    "quoted": "2017-09-04T22:44:17.860329"
+    "channel": "shipdesignbureau"
   },
   {
+    "id": "354430211737255938",
+    "quoted": "2017-09-05T00:59:08.187853",
     "lines": [
       {
         "edited": null,
@@ -296,12 +298,12 @@
         "timestamp": "2017-09-04T19:33:59.098000+00:00"
       }
     ],
-    "id": "354430211737255938",
-    "channel": "general",
     "server": "To Boldly Go",
-    "quoted": "2017-09-05T00:59:08.187853"
+    "channel": "general"
   },
   {
+    "id": "354703593397288966",
+    "quoted": "2017-09-05T19:05:41.298608",
     "lines": [
       {
         "edited": null,
@@ -367,12 +369,12 @@
         "timestamp": "2017-09-05T18:59:11.200000+00:00"
       }
     ],
-    "id": "354703593397288966",
-    "channel": "general",
     "server": "To Boldly Go",
-    "quoted": "2017-09-05T19:05:41.298608"
+    "channel": "general"
   },
   {
+    "id": "354725537924775936",
+    "quoted": "2017-09-05T20:32:39.603755",
     "lines": [
       {
         "edited": null,
@@ -510,12 +512,12 @@
         "timestamp": "2017-09-05T20:32:10.784000+00:00"
       }
     ],
-    "id": "354725537924775936",
-    "channel": "general",
     "server": "To Boldly Go",
-    "quoted": "2017-09-05T20:32:39.603755"
+    "channel": "general"
   },
   {
+    "id": "354742735833661441",
+    "quoted": "2017-09-05T21:40:59.666821",
     "lines": [
       {
         "edited": null,
@@ -572,12 +574,12 @@
         "timestamp": "2017-09-05T21:16:41.154000+00:00"
       }
     ],
-    "id": "354742735833661441",
-    "channel": "general",
     "server": "To Boldly Go",
-    "quoted": "2017-09-05T21:40:59.666821"
+    "channel": "general"
   },
   {
+    "id": "354743040671350784",
+    "quoted": "2017-09-05T21:42:12.179341",
     "lines": [
       {
         "edited": null,
@@ -796,12 +798,12 @@
         "timestamp": "2017-09-05T21:33:46.908000+00:00"
       }
     ],
-    "id": "354743040671350784",
-    "channel": "general",
     "server": "To Boldly Go",
-    "quoted": "2017-09-05T21:42:12.179341"
+    "channel": "general"
   },
   {
+    "id": "354843410474991616",
+    "quoted": "2017-09-06T04:21:02.128177",
     "lines": [
       {
         "edited": null,
@@ -813,12 +815,12 @@
         "timestamp": "2017-09-06T04:17:39.765000+00:00"
       }
     ],
-    "id": "354843410474991616",
-    "channel": "general",
     "server": "To Boldly Go",
-    "quoted": "2017-09-06T04:21:02.128177"
+    "channel": "general"
   },
   {
+    "id": "355060651288428556",
+    "quoted": "2017-09-06T18:44:16.994395",
     "lines": [
       {
         "edited": null,
@@ -848,12 +850,12 @@
         "timestamp": "2017-09-06T18:40:33.897000+00:00"
       }
     ],
-    "id": "355060651288428556",
-    "channel": "general",
     "server": "To Boldly Go",
-    "quoted": "2017-09-06T18:44:16.994395"
+    "channel": "general"
   },
   {
+    "id": "355096211960889345",
+    "quoted": "2017-09-06T21:05:34.891452",
     "lines": [
       {
         "edited": null,
@@ -892,12 +894,12 @@
         "timestamp": "2017-09-06T21:03:40.001000+00:00"
       }
     ],
-    "id": "355096211960889345",
-    "channel": "general",
     "server": "To Boldly Go",
-    "quoted": "2017-09-06T21:05:34.891452"
+    "channel": "general"
   },
   {
+    "id": "355129105269784589",
+    "quoted": "2017-09-06T23:16:17.535102",
     "lines": [
       {
         "edited": null,
@@ -909,12 +911,12 @@
         "timestamp": "2017-09-06T23:15:19.181000+00:00"
       }
     ],
-    "id": "355129105269784589",
-    "channel": "general",
     "server": "To Boldly Go",
-    "quoted": "2017-09-06T23:16:17.535102"
+    "channel": "general"
   },
   {
+    "id": "355198521714016259",
+    "quoted": "2017-09-07T03:52:07.327860",
     "lines": [
       {
         "edited": "2017-08-21T14:12:00.897000+00:00",
@@ -980,12 +982,12 @@
         "timestamp": "2017-08-21T14:18:52.463000+00:00"
       }
     ],
-    "id": "355198521714016259",
-    "channel": "general",
     "server": "To Boldly Go",
-    "quoted": "2017-09-07T03:52:07.327860"
+    "channel": "general"
   },
   {
+    "id": "356477464643502080",
+    "quoted": "2017-09-10T16:34:11.749750",
     "lines": [
       {
         "edited": null,
@@ -1105,12 +1107,12 @@
         "timestamp": "2017-09-10T16:32:17.442000+00:00"
       }
     ],
-    "id": "356477464643502080",
-    "channel": "sdb-informatics",
     "server": "To Boldly Go",
-    "quoted": "2017-09-10T16:34:11.749750"
+    "channel": "sdb-informatics"
   },
   {
+    "id": "356481303308271618",
+    "quoted": "2017-09-10T16:49:26.601375",
     "lines": [
       {
         "edited": null,
@@ -1167,12 +1169,12 @@
         "timestamp": "2017-09-10T16:48:15.044000+00:00"
       }
     ],
-    "id": "356481303308271618",
-    "channel": "sdb-informatics",
     "server": "To Boldly Go",
-    "quoted": "2017-09-10T16:49:26.601375"
+    "channel": "sdb-informatics"
   },
   {
+    "id": "356631437170180097",
+    "quoted": "2017-09-11T02:46:01.355942",
     "lines": [
       {
         "edited": null,
@@ -1256,12 +1258,12 @@
         "timestamp": "2017-09-11T02:40:19.325000+00:00"
       }
     ],
-    "id": "356631437170180097",
-    "channel": "general",
     "server": "To Boldly Go",
-    "quoted": "2017-09-11T02:46:01.355942"
+    "channel": "general"
   },
   {
+    "id": "357020285255286784",
+    "quoted": "2017-09-12T04:31:09.576175",
     "lines": [
       {
         "edited": null,
@@ -1768,12 +1770,12 @@
         "timestamp": "2017-09-12T04:30:04.920000+00:00"
       }
     ],
-    "id": "357020285255286784",
-    "channel": "sdb-informatics",
     "server": "To Boldly Go",
-    "quoted": "2017-09-12T04:31:09.576175"
+    "channel": "sdb-informatics"
   },
   {
+    "id": "357955259131363330",
+    "quoted": "2017-09-14T18:26:24.775100",
     "lines": [
       {
         "edited": null,
@@ -1875,12 +1877,12 @@
         "timestamp": "2017-09-12T17:26:42.762000+00:00"
       }
     ],
-    "id": "357955259131363330",
-    "channel": "general",
     "server": "To Boldly Go",
-    "quoted": "2017-09-14T18:26:24.775100"
+    "channel": "general"
   },
   {
+    "id": "358998787374579713",
+    "quoted": "2017-09-17T15:33:01.955285",
     "lines": [
       {
         "edited": null,
@@ -1937,12 +1939,12 @@
         "timestamp": "2017-09-17T15:26:37.774000+00:00"
       }
     ],
-    "id": "358998787374579713",
-    "channel": "general",
     "server": "To Boldly Go",
-    "quoted": "2017-09-17T15:33:01.955285"
+    "channel": "general"
   },
   {
+    "id": "360014553683329025",
+    "quoted": "2017-09-20T10:49:18.835423",
     "lines": [
       {
         "edited": null,
@@ -1972,12 +1974,12 @@
         "timestamp": "2017-09-18T13:05:38.008000+00:00"
       }
     ],
-    "id": "360014553683329025",
-    "channel": "general",
     "server": "To Boldly Go",
-    "quoted": "2017-09-20T10:49:18.835423"
+    "channel": "general"
   },
   {
+    "id": "361315042857189376",
+    "quoted": "2017-09-24T00:56:59.918248",
     "lines": [
       {
         "edited": null,
@@ -1998,12 +2000,12 @@
         "timestamp": "2017-09-24T00:18:40.545000+00:00"
       }
     ],
-    "id": "361315042857189376",
-    "channel": "sdb-informatics",
     "server": "To Boldly Go",
-    "quoted": "2017-09-24T00:56:59.918248"
+    "channel": "sdb-informatics"
   },
   {
+    "id": "363014429513613312",
+    "quoted": "2017-09-28T17:29:44.938013",
     "lines": [
       {
         "edited": null,
@@ -2024,12 +2026,12 @@
         "timestamp": "2017-09-28T17:03:13.316000+00:00"
       }
     ],
-    "id": "363014429513613312",
-    "channel": "general",
     "server": "To Boldly Go",
-    "quoted": "2017-09-28T17:29:44.938013"
+    "channel": "general"
   },
   {
+    "id": "363515471418621952",
+    "quoted": "2017-09-30T02:40:43.184352",
     "lines": [
       {
         "edited": null,
@@ -2266,12 +2268,12 @@
         "timestamp": "2017-09-30T02:32:47.032000+00:00"
       }
     ],
-    "id": "363515471418621952",
-    "channel": "general",
     "server": "To Boldly Go",
-    "quoted": "2017-09-30T02:40:43.184352"
+    "channel": "general"
   },
   {
+    "id": "367386093487652865",
+    "quoted": "2017-10-10T19:01:10.945670",
     "lines": [
       {
         "edited": null,
@@ -2301,12 +2303,12 @@
         "timestamp": "2017-10-07T15:07:00.695000+00:00"
       }
     ],
-    "id": "367386093487652865",
-    "channel": "general",
     "server": "To Boldly Go",
-    "quoted": "2017-10-10T19:01:10.945670"
+    "channel": "general"
   },
   {
+    "id": "369990286580908032",
+    "quoted": "2017-10-17T23:29:18.803184",
     "lines": [
       {
         "edited": null,
@@ -2381,12 +2383,12 @@
         "timestamp": "2017-09-12T16:35:07.829000+00:00"
       }
     ],
-    "id": "369990286580908032",
-    "channel": "general",
     "server": "To Boldly Go",
-    "quoted": "2017-10-17T23:29:18.803184"
+    "channel": "general"
   },
   {
+    "id": "369990414507311114",
+    "quoted": "2017-10-17T23:29:49.343594",
     "lines": [
       {
         "edited": null,
@@ -2497,12 +2499,12 @@
         "timestamp": "2017-09-10T09:56:09.792000+00:00"
       }
     ],
-    "id": "369990414507311114",
-    "channel": "general",
     "server": "To Boldly Go",
-    "quoted": "2017-10-17T23:29:49.343594"
+    "channel": "general"
   },
   {
+    "id": "379576609251786762",
+    "quoted": "2017-11-13T10:21:56.363503",
     "lines": [
       {
         "edited": "2017-11-13T10:09:49.932000+00:00",
@@ -2613,12 +2615,12 @@
         "timestamp": "2017-11-13T10:12:26.952000+00:00"
       }
     ],
-    "id": "379576609251786762",
-    "channel": "general",
     "server": "To Boldly Go",
-    "quoted": "2017-11-13T10:21:56.363503"
+    "channel": "general"
   },
   {
+    "id": "379591554374959112",
+    "quoted": "2017-11-13T11:21:19.609085",
     "lines": [
       {
         "edited": "2017-11-13T11:11:40.291000+00:00",
@@ -2657,12 +2659,12 @@
         "timestamp": "2017-11-13T11:11:56.297000+00:00"
       }
     ],
-    "id": "379591554374959112",
-    "channel": "general",
     "server": "To Boldly Go",
-    "quoted": "2017-11-13T11:21:19.609085"
+    "channel": "general"
   },
   {
+    "id": "381334339863969793",
+    "quoted": "2017-11-18T06:46:32.050585",
     "lines": [
       {
         "edited": null,
@@ -2755,12 +2757,12 @@
         "timestamp": "2017-11-07T12:54:24.463000+00:00"
       }
     ],
-    "id": "381334339863969793",
-    "channel": "general",
     "server": "To Boldly Go",
-    "quoted": "2017-11-18T06:46:32.050585"
+    "channel": "general"
   },
   {
+    "id": "381334564468948992",
+    "quoted": "2017-11-18T06:47:25.496607",
     "lines": [
       {
         "edited": null,
@@ -2790,12 +2792,12 @@
         "timestamp": "2017-11-18T06:43:20.878000+00:00"
       }
     ],
-    "id": "381334564468948992",
-    "channel": "general",
     "server": "To Boldly Go",
-    "quoted": "2017-11-18T06:47:25.496607"
+    "channel": "general"
   },
   {
+    "id": "384265043140935680",
+    "quoted": "2017-11-26T08:52:06.009978",
     "lines": [
       {
         "edited": null,
@@ -2816,12 +2818,12 @@
         "timestamp": "2017-11-26T08:41:22.400000+00:00"
       }
     ],
-    "id": "384265043140935680",
-    "channel": "general",
     "server": "To Boldly Go",
-    "quoted": "2017-11-26T08:52:06.009978"
+    "channel": "general"
   },
   {
+    "id": "385987273679699968",
+    "quoted": "2017-12-01T02:55:38.015034",
     "lines": [
       {
         "edited": null,
@@ -2860,12 +2862,12 @@
         "timestamp": "2017-11-30T13:20:49.843000+00:00"
       }
     ],
-    "id": "385987273679699968",
-    "channel": "general",
     "server": "To Boldly Go",
-    "quoted": "2017-12-01T02:55:38.015034"
+    "channel": "general"
   },
   {
+    "id": "385988216802639873",
+    "quoted": "2017-12-01T02:59:22.716986",
     "lines": [
       {
         "edited": null,
@@ -2886,12 +2888,12 @@
         "timestamp": "2017-10-15T08:49:29.165000+00:00"
       }
     ],
-    "id": "385988216802639873",
-    "channel": "sdb-informatics",
     "server": "To Boldly Go",
-    "quoted": "2017-12-01T02:59:22.716986"
+    "channel": "sdb-informatics"
   },
   {
+    "id": "386003443522994177",
+    "quoted": "2017-12-01T03:59:53.211611",
     "lines": [
       {
         "edited": null,
@@ -2930,12 +2932,12 @@
         "timestamp": "2017-11-27T14:30:45.875000+00:00"
       }
     ],
-    "id": "386003443522994177",
-    "channel": "shipdesignbureau",
     "server": "To Boldly Go",
-    "quoted": "2017-12-01T03:59:53.211611"
+    "channel": "shipdesignbureau"
   },
   {
+    "id": "390412580553752576",
+    "quoted": "2017-12-13T08:00:13.707127",
     "lines": [
       {
         "edited": null,
@@ -2983,12 +2985,12 @@
         "timestamp": "2017-12-12T10:43:10.074000+00:00"
       }
     ],
-    "id": "390412580553752576",
-    "channel": "general",
     "server": "To Boldly Go",
-    "quoted": "2017-12-13T08:00:13.707127"
+    "channel": "general"
   },
   {
+    "id": "390417184423149569",
+    "quoted": "2017-12-13T08:18:31.001075",
     "lines": [
       {
         "edited": null,
@@ -3027,12 +3029,12 @@
         "timestamp": "2017-12-13T08:17:09.750000+00:00"
       }
     ],
-    "id": "390417184423149569",
-    "channel": "general",
     "server": "To Boldly Go",
-    "quoted": "2017-12-13T08:18:31.001075"
+    "channel": "general"
   },
   {
+    "id": "391761662442602496",
+    "quoted": "2017-12-17T01:21:00.243114",
     "lines": [
       {
         "edited": null,
@@ -3089,12 +3091,12 @@
         "timestamp": "2017-10-27T21:07:12.278000+00:00"
       }
     ],
-    "id": "391761662442602496",
-    "channel": "general",
     "server": "To Boldly Go",
-    "quoted": "2017-12-17T01:21:00.243114"
+    "channel": "general"
   },
   {
+    "id": "392863673468846081",
+    "quoted": "2017-12-20T02:19:59.504073",
     "lines": [
       {
         "edited": "2017-12-19T10:36:11.879000+00:00",
@@ -3376,12 +3378,12 @@
         "timestamp": "2017-12-19T13:46:00.901000+00:00"
       }
     ],
-    "id": "392863673468846081",
-    "channel": "general",
     "server": "To Boldly Go",
-    "quoted": "2017-12-20T02:19:59.504073"
+    "channel": "general"
   },
   {
+    "id": "393148883016089601",
+    "quoted": "2017-12-20T21:13:18.818223",
     "lines": [
       {
         "edited": null,
@@ -3447,12 +3449,12 @@
         "timestamp": "2017-12-20T21:07:08.915000+00:00"
       }
     ],
-    "id": "393148883016089601",
-    "channel": "mwcd",
     "server": "To Boldly Go",
-    "quoted": "2017-12-20T21:13:18.818223"
+    "channel": "mwcd"
   },
   {
+    "id": "393150164006862848",
+    "quoted": "2017-12-20T21:18:24.065212",
     "lines": [
       {
         "edited": null,
@@ -3563,12 +3565,12 @@
         "timestamp": "2017-12-01T04:24:35.125000+00:00"
       }
     ],
-    "id": "393150164006862848",
-    "channel": "shipdesignbureau",
     "server": "To Boldly Go",
-    "quoted": "2017-12-20T21:18:24.065212"
+    "channel": "shipdesignbureau"
   },
   {
+    "id": "393366300086239232",
+    "quoted": "2017-12-21T11:37:15.119509",
     "lines": [
       {
         "edited": null,
@@ -3652,12 +3654,12 @@
         "timestamp": "2017-12-21T11:34:36.697000+00:00"
       }
     ],
-    "id": "393366300086239232",
-    "channel": "general",
     "server": "To Boldly Go",
-    "quoted": "2017-12-21T11:37:15.119509"
+    "channel": "general"
   },
   {
+    "id": "399048902105628689",
+    "quoted": "2018-01-06T03:57:53.015065",
     "lines": [
       {
         "edited": null,
@@ -3687,12 +3689,12 @@
         "timestamp": "2018-01-06T03:57:24.388000+00:00"
       }
     ],
-    "id": "399048902105628689",
-    "channel": "general",
     "server": "To Boldly Go",
-    "quoted": "2018-01-06T03:57:53.015065"
+    "channel": "general"
   },
   {
+    "id": "399376638858756096",
+    "quoted": "2018-01-07T01:40:11.369126",
     "lines": [
       {
         "edited": null,
@@ -3722,12 +3724,12 @@
         "timestamp": "2018-01-07T00:24:06.497000+00:00"
       }
     ],
-    "id": "399376638858756096",
-    "channel": "shipdesignbureau",
     "server": "To Boldly Go",
-    "quoted": "2018-01-07T01:40:11.369126"
+    "channel": "shipdesignbureau"
   },
   {
+    "id": "399696701486661652",
+    "quoted": "2018-01-07T22:52:00.421350",
     "lines": [
       {
         "edited": null,
@@ -3739,12 +3741,12 @@
         "timestamp": "2017-12-30T13:51:36.465000+00:00"
       }
     ],
-    "id": "399696701486661652",
-    "channel": "general",
     "server": "To Boldly Go",
-    "quoted": "2018-01-07T22:52:00.421350"
+    "channel": "general"
   },
   {
+    "id": "399697314320482307",
+    "quoted": "2018-01-07T22:54:26.435236",
     "lines": [
       {
         "edited": "2017-12-30T12:36:56.780000+00:00",
@@ -3810,12 +3812,12 @@
         "timestamp": "2017-12-30T13:51:36.465000+00:00"
       }
     ],
-    "id": "399697314320482307",
-    "channel": "general",
     "server": "To Boldly Go",
-    "quoted": "2018-01-07T22:54:26.435236"
+    "channel": "general"
   },
   {
+    "id": "401901199529607169",
+    "quoted": "2018-01-14T00:51:55.786636",
     "lines": [
       {
         "edited": null,
@@ -3854,12 +3856,12 @@
         "timestamp": "2018-01-13T13:41:19.818000+00:00"
       }
     ],
-    "id": "401901199529607169",
-    "channel": "general",
     "server": "To Boldly Go",
-    "quoted": "2018-01-14T00:51:55.786636"
+    "channel": "general"
   },
   {
+    "id": "412424536538087424",
+    "quoted": "2018-02-12T01:47:52.542549",
     "lines": [
       {
         "edited": null,
@@ -3997,12 +3999,12 @@
         "timestamp": "2018-02-12T01:39:32.256000+00:00"
       }
     ],
-    "id": "412424536538087424",
-    "channel": "general",
     "server": "To Boldly Go",
-    "quoted": "2018-02-12T01:47:52.542549"
+    "channel": "general"
   },
   {
+    "id": "412506861670105091",
+    "quoted": "2018-02-12T07:15:00.510901",
     "lines": [
       {
         "edited": null,
@@ -4050,12 +4052,12 @@
         "timestamp": "2018-01-10T08:55:13.403000+00:00"
       }
     ],
-    "id": "412506861670105091",
-    "channel": "sdb-informatics",
     "server": "To Boldly Go",
-    "quoted": "2018-02-12T07:15:00.510901"
+    "channel": "sdb-informatics"
   },
   {
+    "id": "413358951514767370",
+    "quoted": "2018-02-14T15:40:54.749621",
     "lines": [
       {
         "edited": "2018-02-14T10:00:15.764000+00:00",
@@ -4490,12 +4492,12 @@
         "timestamp": "2018-02-14T14:57:13.962000+00:00"
       }
     ],
-    "id": "413358951514767370",
-    "channel": "general",
     "server": "To Boldly Go",
-    "quoted": "2018-02-14T15:40:54.749621"
+    "channel": "general"
   },
   {
+    "id": "413579896682577932",
+    "quoted": "2018-02-15T06:18:51.988258",
     "lines": [
       {
         "edited": null,
@@ -4561,12 +4563,12 @@
         "timestamp": "2018-02-15T06:15:53.604000+00:00"
       }
     ],
-    "id": "413579896682577932",
-    "channel": "general",
     "server": "To Boldly Go",
-    "quoted": "2018-02-15T06:18:51.988258"
+    "channel": "general"
   },
   {
+    "id": "413885923227467778",
+    "quoted": "2018-02-16T02:34:54.326537",
     "lines": [
       {
         "edited": null,
@@ -4623,12 +4625,12 @@
         "timestamp": "2018-02-15T17:04:21.474000+00:00"
       }
     ],
-    "id": "413885923227467778",
-    "channel": "intelligence",
     "server": "To Boldly Go",
-    "quoted": "2018-02-16T02:34:54.326537"
+    "channel": "intelligence"
   },
   {
+    "channel": "general",
+    "id": "417531091730169866",
     "lines": [
       {
         "edited": null,
@@ -4658,9 +4660,69 @@
         "timestamp": "2018-02-26T03:02:17.899000+00:00"
       }
     ],
-    "channel": "general",
-    "id": "417531091730169866",
     "server": "To Boldly Go",
     "quoted": "2018-02-26T03:59:30.556411"
+  },
+  {
+    "lines": [
+      {
+        "edited": null,
+        "content": "hey @Oneiros how do you sum up the current federation combat/science/defense totals in the snakepit? do you include:\na) ships under repair?\nb) ships under refit?\nc) crew rating?\nd) outposts and starbases (for defense totals)?\nI already know doctrine discounts are supposed to be included, but are not currently since we're not close to combat cap",
+        "author": "lbmaian",
+        "authorcolor": null,
+        "attachments": [],
+        "author_id": "214266904435490816",
+        "timestamp": "2018-01-01T10:11:08.383000+00:00"
+      },
+      {
+        "edited": null,
+        "content": "Yes, Yes, No,  No",
+        "author": "Oneiros",
+        "authorcolor": "#AD1457",
+        "attachments": [],
+        "author_id": "164407298008023040",
+        "timestamp": "2018-01-01T10:11:38.372000+00:00"
+      },
+      {
+        "edited": null,
+        "content": "thanks",
+        "author": "lbmaian",
+        "authorcolor": null,
+        "attachments": [],
+        "author_id": "214266904435490816",
+        "timestamp": "2018-01-01T10:13:28.488000+00:00"
+      },
+      {
+        "edited": null,
+        "content": "I was trying to backtrack the 2320 snakepit numbers with a modified version of BV's spreadsheet",
+        "author": "lbmaian",
+        "authorcolor": null,
+        "attachments": [],
+        "author_id": "214266904435490816",
+        "timestamp": "2018-01-01T10:14:05.184000+00:00"
+      },
+      {
+        "edited": null,
+        "content": "couldn't match the numbers directly, but it's pretty close",
+        "author": "lbmaian",
+        "authorcolor": null,
+        "attachments": [],
+        "author_id": "214266904435490816",
+        "timestamp": "2018-01-01T10:15:22.752000+00:00"
+      },
+      {
+        "edited": null,
+        "content": "although it was closer to my fleet totals excluding refits than the totals including refits, so I was a bit confused",
+        "author": "lbmaian",
+        "authorcolor": null,
+        "attachments": [],
+        "author_id": "214266904435490816",
+        "timestamp": "2018-01-01T10:17:20.522000+00:00"
+      }
+    ],
+    "channel": "general",
+    "id": "419351515497758722",
+    "server": "To Boldly Go",
+    "quoted": "2018-03-03T04:33:13.387343"
   }
 ]

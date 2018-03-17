@@ -1,9 +1,5 @@
 [
   {
-    "channel": "general",
-    "quoted": "2017-09-04T20:49:04.995262",
-    "id": "354367283130531841",
-    "server": "To Boldly Go",
     "lines": [
       {
         "timestamp": "2017-09-04T20:16:25.479000+00:00",
@@ -140,13 +136,13 @@
         "author": "Leila",
         "content": "and I'll probably just have nash do that automatically if you attack 24 enio"
       }
-    ]
+    ],
+    "quoted": "2017-09-04T20:49:04.995262",
+    "channel": "general",
+    "server": "To Boldly Go",
+    "id": "354367283130531841"
   },
   {
-    "channel": "general",
-    "quoted": "2017-09-04T21:07:57.006401",
-    "id": "354372032907051010",
-    "server": "To Boldly Go",
     "lines": [
       {
         "timestamp": "2017-09-04T21:05:01.918000+00:00",
@@ -166,13 +162,13 @@
         "author": "Leila",
         "content": "\"Nash dies next post. Its canon.\""
       }
-    ]
+    ],
+    "quoted": "2017-09-04T21:07:57.006401",
+    "channel": "general",
+    "server": "To Boldly Go",
+    "id": "354372032907051010"
   },
   {
-    "channel": "shipdesignbureau",
-    "quoted": "2017-09-04T22:44:17.860329",
-    "id": "354396277955624982",
-    "server": "To Boldly Go",
     "lines": [
       {
         "timestamp": "2017-08-15T14:58:54.471000+00:00",
@@ -210,13 +206,13 @@
         "author": "Forgothrax",
         "content": "You evil GM, you."
       }
-    ]
+    ],
+    "quoted": "2017-09-04T22:44:17.860329",
+    "channel": "shipdesignbureau",
+    "server": "To Boldly Go",
+    "id": "354396277955624982"
   },
   {
-    "channel": "general",
-    "quoted": "2017-09-05T00:59:08.187853",
-    "id": "354430211737255938",
-    "server": "To Boldly Go",
     "lines": [
       {
         "timestamp": "2017-09-04T19:32:19.509000+00:00",
@@ -299,13 +295,13 @@
         "author": "aeqnai",
         "content": "oh dear"
       }
-    ]
+    ],
+    "quoted": "2017-09-05T00:59:08.187853",
+    "channel": "general",
+    "server": "To Boldly Go",
+    "id": "354430211737255938"
   },
   {
-    "channel": "general",
-    "quoted": "2017-09-05T19:05:41.298608",
-    "id": "354703593397288966",
-    "server": "To Boldly Go",
     "lines": [
       {
         "timestamp": "2017-09-05T18:57:23.549000+00:00",
@@ -370,13 +366,13 @@
         "author": "Leila",
         "content": "it wasn't a MWCO issue. Member worlds have had access to starfleet tech since before that office existed."
       }
-    ]
+    ],
+    "quoted": "2017-09-05T19:05:41.298608",
+    "channel": "general",
+    "server": "To Boldly Go",
+    "id": "354703593397288966"
   },
   {
-    "channel": "general",
-    "quoted": "2017-09-05T20:32:39.603755",
-    "id": "354725537924775936",
-    "server": "To Boldly Go",
     "lines": [
       {
         "timestamp": "2017-09-05T20:29:30.818000+00:00",
@@ -513,13 +509,13 @@
         "author": "Leila",
         "content": "there's a reason their entire fleet isn't on your border"
       }
-    ]
+    ],
+    "quoted": "2017-09-05T20:32:39.603755",
+    "channel": "general",
+    "server": "To Boldly Go",
+    "id": "354725537924775936"
   },
   {
-    "channel": "general",
-    "quoted": "2017-09-05T21:40:59.666821",
-    "id": "354742735833661441",
-    "server": "To Boldly Go",
     "lines": [
       {
         "timestamp": "2017-09-05T21:15:26.640000+00:00",
@@ -575,13 +571,13 @@
         "author": "Leila",
         "content": "you can thank Rivers for them not already having one, when she set back their development of that system"
       }
-    ]
+    ],
+    "quoted": "2017-09-05T21:40:59.666821",
+    "channel": "general",
+    "server": "To Boldly Go",
+    "id": "354742735833661441"
   },
   {
-    "channel": "general",
-    "quoted": "2017-09-05T21:42:12.179341",
-    "id": "354743040671350784",
-    "server": "To Boldly Go",
     "lines": [
       {
         "timestamp": "2017-09-05T21:26:23.762000+00:00",
@@ -799,13 +795,13 @@
         "author": "Raron",
         "content": "Yea, same with Dorsata"
       }
-    ]
+    ],
+    "quoted": "2017-09-05T21:42:12.179341",
+    "channel": "general",
+    "server": "To Boldly Go",
+    "id": "354743040671350784"
   },
   {
-    "channel": "general",
-    "quoted": "2017-09-06T04:21:02.128177",
-    "id": "354843410474991616",
-    "server": "To Boldly Go",
     "lines": [
       {
         "timestamp": "2017-09-06T04:17:39.765000+00:00",
@@ -816,13 +812,13 @@
         "author": "Iron Wolf",
         "content": "It's more \"If you keep Linderley now, The GMs Will Remember That\" and if the GBZ campaign goes certain directions, that will be considered when deciding other political ramifications."
       }
-    ]
+    ],
+    "quoted": "2017-09-06T04:21:02.128177",
+    "channel": "general",
+    "server": "To Boldly Go",
+    "id": "354843410474991616"
   },
   {
-    "channel": "general",
-    "quoted": "2017-09-06T18:44:16.994395",
-    "id": "355060651288428556",
-    "server": "To Boldly Go",
     "lines": [
       {
         "timestamp": "2017-09-06T18:40:22.620000+00:00",
@@ -851,13 +847,13 @@
         "author": "Leila",
         "content": "Nash Magic, once again."
       }
-    ]
+    ],
+    "quoted": "2017-09-06T18:44:16.994395",
+    "channel": "general",
+    "server": "To Boldly Go",
+    "id": "355060651288428556"
   },
   {
-    "channel": "general",
-    "quoted": "2017-09-06T21:05:34.891452",
-    "id": "355096211960889345",
-    "server": "To Boldly Go",
     "lines": [
       {
         "timestamp": "2017-09-06T21:03:04.493000+00:00",
@@ -895,13 +891,13 @@
         "author": "Leila",
         "content": "maybe I took Reason off the list instead of Insight"
       }
-    ]
+    ],
+    "quoted": "2017-09-06T21:05:34.891452",
+    "channel": "general",
+    "server": "To Boldly Go",
+    "id": "355096211960889345"
   },
   {
-    "channel": "general",
-    "quoted": "2017-09-06T23:16:17.535102",
-    "id": "355129105269784589",
-    "server": "To Boldly Go",
     "lines": [
       {
         "timestamp": "2017-09-06T23:15:19.181000+00:00",
@@ -912,13 +908,13 @@
         "author": "Iron Wolf",
         "content": "I skipped GM orientation for a beer garden, you can QUOTE that as WOG"
       }
-    ]
+    ],
+    "quoted": "2017-09-06T23:16:17.535102",
+    "channel": "general",
+    "server": "To Boldly Go",
+    "id": "355129105269784589"
   },
   {
-    "channel": "general",
-    "quoted": "2017-09-07T03:52:07.327860",
-    "id": "355198521714016259",
-    "server": "To Boldly Go",
     "lines": [
       {
         "timestamp": "2017-08-21T14:09:10.305000+00:00",
@@ -983,13 +979,13 @@
         "author": "Oneiros",
         "content": "haha"
       }
-    ]
+    ],
+    "quoted": "2017-09-07T03:52:07.327860",
+    "channel": "general",
+    "server": "To Boldly Go",
+    "id": "355198521714016259"
   },
   {
-    "channel": "sdb-informatics",
-    "quoted": "2017-09-10T16:34:11.749750",
-    "id": "356477464643502080",
-    "server": "To Boldly Go",
     "lines": [
       {
         "timestamp": "2017-09-10T16:28:57.189000+00:00",
@@ -1108,13 +1104,13 @@
         "author": "vebyast",
         "content": "A value is exactly a single word or a string delimited by single quotes 'like this is a single value'."
       }
-    ]
+    ],
+    "quoted": "2017-09-10T16:34:11.749750",
+    "channel": "sdb-informatics",
+    "server": "To Boldly Go",
+    "id": "356477464643502080"
   },
   {
-    "channel": "sdb-informatics",
-    "quoted": "2017-09-10T16:49:26.601375",
-    "id": "356481303308271618",
-    "server": "To Boldly Go",
     "lines": [
       {
         "timestamp": "2017-09-10T16:46:00.548000+00:00",
@@ -1170,13 +1166,13 @@
         "author": "vebyast",
         "content": "You also need to specify a channel unless you're quoting out of the current channel. You do t hi s with the --channel option, and you type in and autocomplete the channel name with the #"
       }
-    ]
+    ],
+    "quoted": "2017-09-10T16:49:26.601375",
+    "channel": "sdb-informatics",
+    "server": "To Boldly Go",
+    "id": "356481303308271618"
   },
   {
-    "channel": "general",
-    "quoted": "2017-09-11T02:46:01.355942",
-    "id": "356631437170180097",
-    "server": "To Boldly Go",
     "lines": [
       {
         "timestamp": "2017-09-11T02:38:32.378000+00:00",
@@ -1259,13 +1255,13 @@
         "author": "Iron Wolf",
         "content": "We sort of split the difference and decided Linderly got the rest of the year to retire"
       }
-    ]
+    ],
+    "quoted": "2017-09-11T02:46:01.355942",
+    "channel": "general",
+    "server": "To Boldly Go",
+    "id": "356631437170180097"
   },
   {
-    "channel": "sdb-informatics",
-    "quoted": "2017-09-12T04:31:09.576175",
-    "id": "357020285255286784",
-    "server": "To Boldly Go",
     "lines": [
       {
         "timestamp": "2017-09-12T03:59:24.319000+00:00",
@@ -1771,13 +1767,13 @@
         "author": "vebyast",
         "content": "Yeaaaaah, I'm just going to leave that alone for now. >_>'"
       }
-    ]
+    ],
+    "quoted": "2017-09-12T04:31:09.576175",
+    "channel": "sdb-informatics",
+    "server": "To Boldly Go",
+    "id": "357020285255286784"
   },
   {
-    "channel": "general",
-    "quoted": "2017-09-14T18:26:24.775100",
-    "id": "357955259131363330",
-    "server": "To Boldly Go",
     "lines": [
       {
         "timestamp": "2017-09-12T17:22:49.788000+00:00",
@@ -1878,13 +1874,13 @@
         "author": "Leila",
         "content": "I think starbases in gbz will be greenlit now"
       }
-    ]
+    ],
+    "quoted": "2017-09-14T18:26:24.775100",
+    "channel": "general",
+    "server": "To Boldly Go",
+    "id": "357955259131363330"
   },
   {
-    "channel": "general",
-    "quoted": "2017-09-17T15:33:01.955285",
-    "id": "358998787374579713",
-    "server": "To Boldly Go",
     "lines": [
       {
         "timestamp": "2017-09-17T15:21:20.667000+00:00",
@@ -1940,13 +1936,13 @@
         "author": "Leila",
         "content": "is one reason why I decided he's getting promoted now if he doesn't get a second 5ym"
       }
-    ]
+    ],
+    "quoted": "2017-09-17T15:33:01.955285",
+    "channel": "general",
+    "server": "To Boldly Go",
+    "id": "358998787374579713"
   },
   {
-    "channel": "general",
-    "quoted": "2017-09-20T10:49:18.835423",
-    "id": "360014553683329025",
-    "server": "To Boldly Go",
     "lines": [
       {
         "timestamp": "2017-09-18T12:57:43.096000+00:00",
@@ -1975,13 +1971,13 @@
         "author": "Briefvoice",
         "content": "I would have thought for sure academy expansions, since members spend infrastructure points to increase their own crew income."
       }
-    ]
+    ],
+    "quoted": "2017-09-20T10:49:18.835423",
+    "channel": "general",
+    "server": "To Boldly Go",
+    "id": "360014553683329025"
   },
   {
-    "channel": "sdb-informatics",
-    "quoted": "2017-09-24T00:56:59.918248",
-    "id": "361315042857189376",
-    "server": "To Boldly Go",
     "lines": [
       {
         "timestamp": "2017-09-24T00:18:39.491000+00:00",
@@ -2001,13 +1997,13 @@
         "author": "Iron Wolf",
         "content": "fact"
       }
-    ]
+    ],
+    "quoted": "2017-09-24T00:56:59.918248",
+    "channel": "sdb-informatics",
+    "server": "To Boldly Go",
+    "id": "361315042857189376"
   },
   {
-    "channel": "general",
-    "quoted": "2017-09-28T17:29:44.938013",
-    "id": "363014429513613312",
-    "server": "To Boldly Go",
     "lines": [
       {
         "timestamp": "2017-09-28T17:03:01.317000+00:00",
@@ -2027,13 +2023,13 @@
         "author": "anon_user",
         "content": "no crew to worry about"
       }
-    ]
+    ],
+    "quoted": "2017-09-28T17:29:44.938013",
+    "channel": "general",
+    "server": "To Boldly Go",
+    "id": "363014429513613312"
   },
   {
-    "channel": "general",
-    "quoted": "2017-09-30T02:40:43.184352",
-    "id": "363515471418621952",
-    "server": "To Boldly Go",
     "lines": [
       {
         "timestamp": "2017-09-30T02:15:38.599000+00:00",
@@ -2269,13 +2265,13 @@
         "author": "Kiarael",
         "content": "The missions will be provided by us going forwards, though we will accept suggestions"
       }
-    ]
+    ],
+    "quoted": "2017-09-30T02:40:43.184352",
+    "channel": "general",
+    "server": "To Boldly Go",
+    "id": "363515471418621952"
   },
   {
-    "channel": "general",
-    "quoted": "2017-10-10T19:01:10.945670",
-    "id": "367386093487652865",
-    "server": "To Boldly Go",
     "lines": [
       {
         "timestamp": "2017-10-07T15:06:38.022000+00:00",
@@ -2304,13 +2300,13 @@
         "author": "Oneiros",
         "content": "no, I mean if you put it into a ship it accelerates Isolinear research"
       }
-    ]
+    ],
+    "quoted": "2017-10-10T19:01:10.945670",
+    "channel": "general",
+    "server": "To Boldly Go",
+    "id": "367386093487652865"
   },
   {
-    "channel": "general",
-    "quoted": "2017-10-17T23:29:18.803184",
-    "id": "369990286580908032",
-    "server": "To Boldly Go",
     "lines": [
       {
         "timestamp": "2017-09-12T16:33:25.122000+00:00",
@@ -2384,13 +2380,13 @@
         "author": "Leila",
         "content": "yes"
       }
-    ]
+    ],
+    "quoted": "2017-10-17T23:29:18.803184",
+    "channel": "general",
+    "server": "To Boldly Go",
+    "id": "369990286580908032"
   },
   {
-    "channel": "general",
-    "quoted": "2017-10-17T23:29:49.343594",
-    "id": "369990414507311114",
-    "server": "To Boldly Go",
     "lines": [
       {
         "timestamp": "2017-09-10T09:54:02.174000+00:00",
@@ -2500,13 +2496,13 @@
         "author": "Leila",
         "content": "Yes"
       }
-    ]
+    ],
+    "quoted": "2017-10-17T23:29:49.343594",
+    "channel": "general",
+    "server": "To Boldly Go",
+    "id": "369990414507311114"
   },
   {
-    "channel": "general",
-    "quoted": "2017-11-13T10:21:56.363503",
-    "id": "379576609251786762",
-    "server": "To Boldly Go",
     "lines": [
       {
         "timestamp": "2017-11-13T10:09:38.017000+00:00",
@@ -2616,13 +2612,13 @@
         "author": "Kiarael",
         "content": "General relationship does whatever it wants"
       }
-    ]
+    ],
+    "quoted": "2017-11-13T10:21:56.363503",
+    "channel": "general",
+    "server": "To Boldly Go",
+    "id": "379576609251786762"
   },
   {
-    "channel": "general",
-    "quoted": "2017-11-13T11:21:19.609085",
-    "id": "379591554374959112",
-    "server": "To Boldly Go",
     "lines": [
       {
         "timestamp": "2017-11-13T11:02:23.409000+00:00",
@@ -2660,13 +2656,13 @@
         "author": "lbmaian",
         "content": "awesome"
       }
-    ]
+    ],
+    "quoted": "2017-11-13T11:21:19.609085",
+    "channel": "general",
+    "server": "To Boldly Go",
+    "id": "379591554374959112"
   },
   {
-    "channel": "general",
-    "quoted": "2017-11-18T06:46:32.050585",
-    "id": "381334339863969793",
-    "server": "To Boldly Go",
     "lines": [
       {
         "timestamp": "2017-11-07T11:24:23.944000+00:00",
@@ -2758,13 +2754,13 @@
         "author": "lbmaian",
         "content": "since it was at 60, we were hoping Dylaarians wouldn't be that antagonistic"
       }
-    ]
+    ],
+    "quoted": "2017-11-18T06:46:32.050585",
+    "channel": "general",
+    "server": "To Boldly Go",
+    "id": "381334339863969793"
   },
   {
-    "channel": "general",
-    "quoted": "2017-11-18T06:47:25.496607",
-    "id": "381334564468948992",
-    "server": "To Boldly Go",
     "lines": [
       {
         "timestamp": "2017-11-18T06:41:11.477000+00:00",
@@ -2793,13 +2789,13 @@
         "author": "lbmaian",
         "content": "the way that AKuz worded it sounded like she was unsure: \"I think it's 60\""
       }
-    ]
+    ],
+    "quoted": "2017-11-18T06:47:25.496607",
+    "channel": "general",
+    "server": "To Boldly Go",
+    "id": "381334564468948992"
   },
   {
-    "channel": "general",
-    "quoted": "2017-11-26T08:52:06.009978",
-    "id": "384265043140935680",
-    "server": "To Boldly Go",
     "lines": [
       {
         "timestamp": "2017-11-26T08:36:33.684000+00:00",
@@ -2819,13 +2815,13 @@
         "author": "Oneiros",
         "content": "yeah, all still the same"
       }
-    ]
+    ],
+    "quoted": "2017-11-26T08:52:06.009978",
+    "channel": "general",
+    "server": "To Boldly Go",
+    "id": "384265043140935680"
   },
   {
-    "channel": "general",
-    "quoted": "2017-12-01T02:55:38.015034",
-    "id": "385987273679699968",
-    "server": "To Boldly Go",
     "lines": [
       {
         "timestamp": "2017-11-29T16:35:24.887000+00:00",
@@ -2863,13 +2859,13 @@
         "author": "anon_user",
         "content": "@Forgothrax 6Q period. Unless you're the Klingons building Birds of Prey"
       }
-    ]
+    ],
+    "quoted": "2017-12-01T02:55:38.015034",
+    "channel": "general",
+    "server": "To Boldly Go",
+    "id": "385987273679699968"
   },
   {
-    "channel": "sdb-informatics",
-    "quoted": "2017-12-01T02:59:22.716986",
-    "id": "385988216802639873",
-    "server": "To Boldly Go",
     "lines": [
       {
         "timestamp": "2017-10-14T23:44:59.908000+00:00",
@@ -2889,13 +2885,13 @@
         "author": "Oneiros",
         "content": "honestly happy to keep things simple and just say 12month for all non-fiat refits"
       }
-    ]
+    ],
+    "quoted": "2017-12-01T02:59:22.716986",
+    "channel": "sdb-informatics",
+    "server": "To Boldly Go",
+    "id": "385988216802639873"
   },
   {
-    "channel": "shipdesignbureau",
-    "quoted": "2017-12-01T03:59:53.211611",
-    "id": "386003443522994177",
-    "server": "To Boldly Go",
     "lines": [
       {
         "timestamp": "2017-11-27T14:29:51.074000+00:00",
@@ -2933,13 +2929,13 @@
         "author": "Leila",
         "content": "Your consties get a D bonus in some circumstances due to being built for sprinting"
       }
-    ]
+    ],
+    "quoted": "2017-12-01T03:59:53.211611",
+    "channel": "shipdesignbureau",
+    "server": "To Boldly Go",
+    "id": "386003443522994177"
   },
   {
-    "channel": "general",
-    "quoted": "2017-12-13T08:00:13.707127",
-    "id": "390412580553752576",
-    "server": "To Boldly Go",
     "lines": [
       {
         "timestamp": "2017-12-12T03:50:43.623000+00:00",
@@ -2986,13 +2982,13 @@
         "author": "Iron Wolf",
         "content": "@Briefvoice"
       }
-    ]
+    ],
+    "quoted": "2017-12-13T08:00:13.707127",
+    "channel": "general",
+    "server": "To Boldly Go",
+    "id": "390412580553752576"
   },
   {
-    "channel": "general",
-    "quoted": "2017-12-13T08:18:31.001075",
-    "id": "390417184423149569",
-    "server": "To Boldly Go",
     "lines": [
       {
         "timestamp": "2017-12-13T08:13:00.177000+00:00",
@@ -3030,13 +3026,13 @@
         "author": "lbmaian",
         "content": "thankee"
       }
-    ]
+    ],
+    "quoted": "2017-12-13T08:18:31.001075",
+    "channel": "general",
+    "server": "To Boldly Go",
+    "id": "390417184423149569"
   },
   {
-    "channel": "general",
-    "quoted": "2017-12-17T01:21:00.243114",
-    "id": "391761662442602496",
-    "server": "To Boldly Go",
     "lines": [
       {
         "timestamp": "2017-10-27T21:05:15.312000+00:00",
@@ -3092,13 +3088,13 @@
         "author": "Leila",
         "content": "barely"
       }
-    ]
+    ],
+    "quoted": "2017-12-17T01:21:00.243114",
+    "channel": "general",
+    "server": "To Boldly Go",
+    "id": "391761662442602496"
   },
   {
-    "channel": "general",
-    "quoted": "2017-12-20T02:19:59.504073",
-    "id": "392863673468846081",
-    "server": "To Boldly Go",
     "lines": [
       {
         "timestamp": "2017-12-19T10:34:53.338000+00:00",
@@ -3379,13 +3375,13 @@
         "author": "lbmaian",
         "content": "not about you being a potato, but that it was an error <:pacman:351053359995813889>"
       }
-    ]
+    ],
+    "quoted": "2017-12-20T02:19:59.504073",
+    "channel": "general",
+    "server": "To Boldly Go",
+    "id": "392863673468846081"
   },
   {
-    "channel": "mwcd",
-    "quoted": "2017-12-20T21:13:18.818223",
-    "id": "393148883016089601",
-    "server": "To Boldly Go",
     "lines": [
       {
         "timestamp": "2017-12-20T21:04:49.355000+00:00",
@@ -3450,13 +3446,13 @@
         "author": "lbmaian",
         "content": "ok thanks for the confirmation - wasn't sure, since the STO info post was never updated"
       }
-    ]
+    ],
+    "quoted": "2017-12-20T21:13:18.818223",
+    "channel": "mwcd",
+    "server": "To Boldly Go",
+    "id": "393148883016089601"
   },
   {
-    "channel": "shipdesignbureau",
-    "quoted": "2017-12-20T21:18:24.065212",
-    "id": "393150164006862848",
-    "server": "To Boldly Go",
     "lines": [
       {
         "timestamp": "2017-12-01T04:14:11.743000+00:00",
@@ -3566,13 +3562,13 @@
         "author": "Iron Wolf",
         "content": "In sum: Frigate crews correct, Torqui might be an error."
       }
-    ]
+    ],
+    "quoted": "2017-12-20T21:18:24.065212",
+    "channel": "shipdesignbureau",
+    "server": "To Boldly Go",
+    "id": "393150164006862848"
   },
   {
-    "channel": "general",
-    "quoted": "2017-12-21T11:37:15.119509",
-    "id": "393366300086239232",
-    "server": "To Boldly Go",
     "lines": [
       {
         "timestamp": "2017-12-21T11:08:22.311000+00:00",
@@ -3655,13 +3651,13 @@
         "author": "lbmaian",
         "content": "thanks"
       }
-    ]
+    ],
+    "quoted": "2017-12-21T11:37:15.119509",
+    "channel": "general",
+    "server": "To Boldly Go",
+    "id": "393366300086239232"
   },
   {
-    "channel": "general",
-    "quoted": "2018-01-06T03:57:53.015065",
-    "id": "399048902105628689",
-    "server": "To Boldly Go",
     "lines": [
       {
         "timestamp": "2018-01-06T03:50:25.013000+00:00",
@@ -3690,13 +3686,13 @@
         "author": "lbmaian",
         "content": "thanks!"
       }
-    ]
+    ],
+    "quoted": "2018-01-06T03:57:53.015065",
+    "channel": "general",
+    "server": "To Boldly Go",
+    "id": "399048902105628689"
   },
   {
-    "channel": "shipdesignbureau",
-    "quoted": "2018-01-07T01:40:11.369126",
-    "id": "399376638858756096",
-    "server": "To Boldly Go",
     "lines": [
       {
         "timestamp": "2018-01-07T00:23:08.827000+00:00",
@@ -3725,13 +3721,13 @@
         "author": "Forgothrax",
         "content": ""
       }
-    ]
+    ],
+    "quoted": "2018-01-07T01:40:11.369126",
+    "channel": "shipdesignbureau",
+    "server": "To Boldly Go",
+    "id": "399376638858756096"
   },
   {
-    "channel": "general",
-    "quoted": "2018-01-07T22:52:00.421350",
-    "id": "399696701486661652",
-    "server": "To Boldly Go",
     "lines": [
       {
         "timestamp": "2017-12-30T13:51:36.465000+00:00",
@@ -3742,13 +3738,13 @@
         "author": "Oneiros",
         "content": "I'm afraid I'll be having to blow up a ship selected at random D:<"
       }
-    ]
+    ],
+    "quoted": "2018-01-07T22:52:00.421350",
+    "channel": "general",
+    "server": "To Boldly Go",
+    "id": "399696701486661652"
   },
   {
-    "channel": "general",
-    "quoted": "2018-01-07T22:54:26.435236",
-    "id": "399697314320482307",
-    "server": "To Boldly Go",
     "lines": [
       {
         "timestamp": "2017-12-30T12:36:34.041000+00:00",
@@ -3813,13 +3809,13 @@
         "author": "Oneiros",
         "content": "I'm afraid I'll be having to blow up a ship selected at random D:<"
       }
-    ]
+    ],
+    "quoted": "2018-01-07T22:54:26.435236",
+    "channel": "general",
+    "server": "To Boldly Go",
+    "id": "399697314320482307"
   },
   {
-    "channel": "general",
-    "quoted": "2018-01-14T00:51:55.786636",
-    "id": "401901199529607169",
-    "server": "To Boldly Go",
     "lines": [
       {
         "timestamp": "2018-01-13T13:40:11.302000+00:00",
@@ -3857,13 +3853,13 @@
         "author": "Oneiros",
         "content": "In Q1 if someone can remind me I'll add an option to either SYO or MWCD"
       }
-    ]
+    ],
+    "quoted": "2018-01-14T00:51:55.786636",
+    "channel": "general",
+    "server": "To Boldly Go",
+    "id": "401901199529607169"
   },
   {
-    "channel": "general",
-    "quoted": "2018-02-12T01:47:52.542549",
-    "id": "412424536538087424",
-    "server": "To Boldly Go",
     "lines": [
       {
         "timestamp": "2018-02-12T01:30:34.270000+00:00",
@@ -4000,13 +3996,13 @@
         "author": "lbmaian",
         "content": "awesome"
       }
-    ]
+    ],
+    "quoted": "2018-02-12T01:47:52.542549",
+    "channel": "general",
+    "server": "To Boldly Go",
+    "id": "412424536538087424"
   },
   {
-    "channel": "sdb-informatics",
-    "quoted": "2018-02-12T07:15:00.510901",
-    "id": "412506861670105091",
-    "server": "To Boldly Go",
     "lines": [
       {
         "timestamp": "2018-01-09T22:55:50.880000+00:00",
@@ -4053,13 +4049,13 @@
         "author": "Oneiros",
         "content": "that would be an oversight"
       }
-    ]
+    ],
+    "quoted": "2018-02-12T07:15:00.510901",
+    "channel": "sdb-informatics",
+    "server": "To Boldly Go",
+    "id": "412506861670105091"
   },
   {
-    "channel": "general",
-    "quoted": "2018-02-14T15:40:54.749621",
-    "id": "413358951514767370",
-    "server": "To Boldly Go",
     "lines": [
       {
         "timestamp": "2018-02-14T09:59:53.946000+00:00",
@@ -4493,13 +4489,13 @@
         "author": "lbmaian",
         "content": "super-freighter and freighter numbers are tradeable to certain extent obviously, but the cargo ship number is 18 higher than the official one"
       }
-    ]
+    ],
+    "quoted": "2018-02-14T15:40:54.749621",
+    "channel": "general",
+    "server": "To Boldly Go",
+    "id": "413358951514767370"
   },
   {
-    "channel": "general",
-    "quoted": "2018-02-15T06:18:51.988258",
-    "id": "413579896682577932",
-    "server": "To Boldly Go",
     "lines": [
       {
         "timestamp": "2018-02-15T06:01:55.717000+00:00",
@@ -4564,13 +4560,13 @@
         "author": "lbmaian",
         "content": "thanks!"
       }
-    ]
+    ],
+    "quoted": "2018-02-15T06:18:51.988258",
+    "channel": "general",
+    "server": "To Boldly Go",
+    "id": "413579896682577932"
   },
   {
-    "channel": "intelligence",
-    "quoted": "2018-02-16T02:34:54.326537",
-    "id": "413885923227467778",
-    "server": "To Boldly Go",
     "lines": [
       {
         "timestamp": "2018-02-14T13:13:37.653000+00:00",
@@ -4626,13 +4622,13 @@
         "author": "Iron Wolf",
         "content": "Hey @swb we've made a retcon - the K'Tinga is now 800kt, 80/80, same stats"
       }
-    ]
+    ],
+    "quoted": "2018-02-16T02:34:54.326537",
+    "channel": "intelligence",
+    "server": "To Boldly Go",
+    "id": "413885923227467778"
   },
   {
-    "channel": "general",
-    "quoted": "2018-02-26T03:59:30.556411",
-    "id": "417531091730169866",
-    "server": "To Boldly Go",
     "lines": [
       {
         "timestamp": "2018-02-26T03:01:46.402000+00:00",
@@ -4661,13 +4657,13 @@
         "author": "anon_user",
         "content": "you'll wind up with more cargo ships simply because you've got more cargo berths in the Fed"
       }
-    ]
+    ],
+    "quoted": "2018-02-26T03:59:30.556411",
+    "channel": "general",
+    "server": "To Boldly Go",
+    "id": "417531091730169866"
   },
   {
-    "channel": "general",
-    "quoted": "2018-03-03T04:33:13.387343",
-    "id": "419351515497758722",
-    "server": "To Boldly Go",
     "lines": [
       {
         "timestamp": "2018-01-01T10:11:08.383000+00:00",
@@ -4723,13 +4719,13 @@
         "author": "lbmaian",
         "content": "although it was closer to my fleet totals excluding refits than the totals including refits, so I was a bit confused"
       }
-    ]
+    ],
+    "quoted": "2018-03-03T04:33:13.387343",
+    "channel": "general",
+    "server": "To Boldly Go",
+    "id": "419351515497758722"
   },
   {
-    "channel": "general",
-    "quoted": "2018-03-03T05:12:08.279723",
-    "id": "419361309868687373",
-    "server": "To Boldly Go",
     "lines": [
       {
         "timestamp": "2017-12-24T12:25:59.804000+00:00",
@@ -4794,13 +4790,13 @@
         "author": "Forgothrax",
         "content": ":D"
       }
-    ]
+    ],
+    "quoted": "2018-03-03T05:12:08.279723",
+    "channel": "general",
+    "server": "To Boldly Go",
+    "id": "419361309868687373"
   },
   {
-    "channel": "general",
-    "quoted": "2018-03-04T00:43:48.223658",
-    "id": "419656165949964309",
-    "server": "To Boldly Go",
     "lines": [
       {
         "timestamp": "2018-03-03T21:59:18.248000+00:00",
@@ -4901,13 +4897,13 @@
         "author": "Iron Wolf",
         "content": "that works"
       }
-    ]
+    ],
+    "quoted": "2018-03-04T00:43:48.223658",
+    "channel": "general",
+    "server": "To Boldly Go",
+    "id": "419656165949964309"
   },
   {
-    "channel": "general",
-    "quoted": "2018-03-04T00:44:12.869453",
-    "id": "419656272720297985",
-    "server": "To Boldly Go",
     "lines": [
       {
         "timestamp": "2018-03-03T23:13:00.941000+00:00",
@@ -4990,12 +4986,17 @@
         "author": "lbmaian",
         "content": "\"+1 to anomaly research\" did sound rather weird"
       }
-    ]
+    ],
+    "quoted": "2018-03-04T00:44:12.869453",
+    "channel": "general",
+    "server": "To Boldly Go",
+    "id": "419656272720297985"
   },
   {
+    "channel": "general",
     "quoted": "2018-03-04T10:07:41.574961",
-    "server": "To Boldly Go",
     "id": "419798076094676992",
+    "server": "To Boldly Go",
     "lines": [
       {
         "timestamp": "2018-03-04T08:19:40.005000+00:00",
@@ -5078,14 +5079,9 @@
         "author": "Iron Wolf",
         "content": "And shipyards"
       }
-    ],
-    "channel": "general"
+    ]
   },
   {
-    "channel": "shipdesignbureau",
-    "quoted": "2018-03-04T21:06:19.595769",
-    "id": "419963822711767052",
-    "server": "To Boldly Go",
     "lines": [
       {
         "timestamp": "2018-02-16T20:12:37.889000+00:00",
@@ -5119,13 +5115,13 @@
         "author": "anon_user",
         "content": "(caitian and apiata frigates are costed in multiples of 4, not 5)"
       }
-    ]
+    ],
+    "quoted": "2018-03-04T21:06:19.595769",
+    "channel": "shipdesignbureau",
+    "server": "To Boldly Go",
+    "id": "419963822711767052"
   },
   {
-    "channel": "general",
-    "quoted": "2018-03-05T09:13:24.003097",
-    "id": "420146800759013389",
-    "server": "To Boldly Go",
     "lines": [
       {
         "timestamp": "2018-03-05T08:32:48.248000+00:00",
@@ -5352,12 +5348,17 @@
         "author": "lbmaian",
         "content": "fuzzy borders since they won't tell us the exact boundaries (kinda like the Gorn, although those guys tend to claim ALL territory rather than for secrecy)"
       }
-    ]
+    ],
+    "quoted": "2018-03-05T09:13:24.003097",
+    "channel": "general",
+    "server": "To Boldly Go",
+    "id": "420146800759013389"
   },
   {
+    "channel": "general",
     "quoted": "2018-03-05T14:13:34.293198",
-    "server": "To Boldly Go",
     "id": "420222341482676227",
+    "server": "To Boldly Go",
     "lines": [
       {
         "timestamp": "2018-03-05T13:01:41.944000+00:00",
@@ -5395,14 +5396,9 @@
         "author": "lbmaian",
         "content": "with the example of Earth and Mars appearing separately on the map, may do the same thing with Ikeigenoi and Akaikan"
       }
-    ],
-    "channel": "general"
+    ]
   },
   {
-    "channel": "general",
-    "quoted": "2018-03-16T21:30:15.660157",
-    "id": "424318504217608194",
-    "server": "To Boldly Go",
     "lines": [
       {
         "timestamp": "2018-03-16T16:11:21.824000+00:00",
@@ -5493,6 +5489,108 @@
         "attachments": [],
         "author": "Briefvoice",
         "content": "My worry, of course, is that their ships are much more combat capable than ours."
+      }
+    ],
+    "quoted": "2018-03-16T21:30:15.660157",
+    "channel": "general",
+    "server": "To Boldly Go",
+    "id": "424318504217608194"
+  },
+  {
+    "channel": "general",
+    "quoted": "2018-03-17T00:16:22.060632",
+    "id": "424360307452805140",
+    "server": "To Boldly Go",
+    "lines": [
+      {
+        "timestamp": "2018-03-17T00:03:53.093000+00:00",
+        "edited": null,
+        "author_id": "214266904435490816",
+        "authorcolor": null,
+        "attachments": [],
+        "author": "lbmaian",
+        "content": "@Kiarael can you verify whether the Licori had +7 relations or their resulting relations is now at 72/100? we started off with 67/100, so either the +7 (should be +5) or the 72 (should be 74) is wrong"
+      },
+      {
+        "timestamp": "2018-03-17T00:04:21.734000+00:00",
+        "edited": null,
+        "author_id": "276191614244880384",
+        "authorcolor": "#1F8B4C",
+        "attachments": [],
+        "author": "Kiarael",
+        "content": "there was a lot of gains and losses"
+      },
+      {
+        "timestamp": "2018-03-17T00:04:23.478000+00:00",
+        "edited": null,
+        "author_id": "214266904435490816",
+        "authorcolor": null,
+        "attachments": [],
+        "author": "lbmaian",
+        "content": "also is Dawiar's Ashalla Pact tag just eliminated now, and replaced with a \"Gorn Client\" tag?"
+      },
+      {
+        "timestamp": "2018-03-17T00:04:27.037000+00:00",
+        "edited": null,
+        "author_id": "276191614244880384",
+        "authorcolor": "#1F8B4C",
+        "attachments": [],
+        "author": "Kiarael",
+        "content": "of differing amounts"
+      },
+      {
+        "timestamp": "2018-03-17T00:04:45.667000+00:00",
+        "edited": null,
+        "author_id": "276191614244880384",
+        "authorcolor": "#1F8B4C",
+        "attachments": [],
+        "author": "Kiarael",
+        "content": "It wasn't a straight \"Gain 7\""
+      },
+      {
+        "timestamp": "2018-03-17T00:04:46.725000+00:00",
+        "edited": null,
+        "author_id": "205672342100246528",
+        "authorcolor": "#546E7A",
+        "attachments": [],
+        "author": "anon_user",
+        "content": "72 is correct"
+      },
+      {
+        "timestamp": "2018-03-17T00:05:27.399000+00:00",
+        "edited": null,
+        "author_id": "214266904435490816",
+        "authorcolor": null,
+        "attachments": [],
+        "author": "lbmaian",
+        "content": "er... so 5 went to Horizon Influence, and the remainder 2 went... where?"
+      },
+      {
+        "timestamp": "2018-03-17T00:05:40.980000+00:00",
+        "edited": null,
+        "author_id": "205672342100246528",
+        "authorcolor": "#546E7A",
+        "attachments": [],
+        "author": "anon_user",
+        "content": "nowhere"
+      },
+      {
+        "timestamp": "2018-03-17T00:05:44.316000+00:00",
+        "edited": null,
+        "author_id": "205672342100246528",
+        "authorcolor": "#546E7A",
+        "attachments": [],
+        "author": "anon_user",
+        "content": "tally error"
+      },
+      {
+        "timestamp": "2018-03-17T00:06:04.785000+00:00",
+        "edited": null,
+        "author_id": "214266904435490816",
+        "authorcolor": null,
+        "attachments": [],
+        "author": "lbmaian",
+        "content": "ok so it's +5 then, thanks for the confirmation \ud83d\ude09"
       }
     ]
   }

@@ -5988,5 +5988,67 @@
     "channel": "general",
     "quoted": "2018-04-02T00:51:03.463714",
     "server": "To Boldly Go"
+  },
+  {
+    "id": "430209088358711316",
+    "lines": [
+      {
+        "author": "Godwinson",
+        "content": "I assume that Small cargo can't just be shoved into Bulk cargo is because Small cargo is assumed to need more care in handling and storage? (The actual reason is \"it has those stats because it has those stats\", of course)",
+        "author_id": "252581296436412416",
+        "authorcolor": null,
+        "edited": null,
+        "attachments": [],
+        "timestamp": "2018-04-01T16:11:40.929000+00:00"
+      },
+      {
+        "author": "Oneiros",
+        "content": "That's right - but just to laugh at your actual reason point a little",
+        "author_id": "164407298008023040",
+        "authorcolor": "#AD1457",
+        "edited": null,
+        "attachments": [],
+        "timestamp": "2018-04-01T16:12:27.095000+00:00"
+      },
+      {
+        "author": "Oneiros",
+        "content": "you can do it the other way around",
+        "author_id": "164407298008023040",
+        "authorcolor": "#AD1457",
+        "edited": null,
+        "attachments": [],
+        "timestamp": "2018-04-01T16:12:31.339000+00:00"
+      },
+      {
+        "author": "Oneiros",
+        "content": "and Cargo Ships can sacrifice their small cargo capacity for half that amount in bulk :v",
+        "author_id": "164407298008023040",
+        "authorcolor": "#AD1457",
+        "edited": null,
+        "attachments": [],
+        "timestamp": "2018-04-01T16:12:49.459000+00:00"
+      },
+      {
+        "author": "Oneiros",
+        "content": "\"bulk-rigged\"",
+        "author_id": "164407298008023040",
+        "authorcolor": "#AD1457",
+        "edited": null,
+        "attachments": [],
+        "timestamp": "2018-04-01T16:12:54.670000+00:00"
+      },
+      {
+        "author": "Oneiros",
+        "content": "helps me make ends meet for small powers",
+        "author_id": "164407298008023040",
+        "authorcolor": "#AD1457",
+        "edited": null,
+        "attachments": [],
+        "timestamp": "2018-04-01T16:13:00.475000+00:00"
+      }
+    ],
+    "channel": "general",
+    "quoted": "2018-04-02T03:37:20.568168",
+    "server": "To Boldly Go"
   }
 ]
